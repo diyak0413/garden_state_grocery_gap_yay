@@ -1,0 +1,12 @@
+{
+  "acs_vintage": "2022",
+  "endpoint": "https://api.census.gov/data/2022/acs/acs5",
+  "data_vintage_label": "ACS 2018\u20132022 5-year",
+  "zctas_expected": 734,
+  "zctas_with_values": 455,
+  "api_empty": 279,
+  "preflight_pass": false,
+  "min_required": 580,
+  "status": "FAILED",
+  "timestamp": "2025-10-30T01:51:25.550971"
+}

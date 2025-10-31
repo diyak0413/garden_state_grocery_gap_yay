@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Node
+frontend/node_modules/
+frontend/.pnp/
+frontend/.pnp.js
+
+# Build artifacts (keep built assets already committed if desired)
+# Uncomment to exclude build outputs going forward:
+# frontend/build/
+
+# Caches and local databases
+.data_cache/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Project-specific caches
+/data/walmart_cache.db
+/data/api_cache.json

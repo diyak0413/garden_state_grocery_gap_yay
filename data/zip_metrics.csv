@@ -1,0 +1,735 @@
+zip,city,county,display_name,median_income,total_population,poverty_count,poverty_rate,median_age,snap_retailer_count,snap_retailers_per_5000,basket_cost,affordability_score,data_source
+07001,Avenel,Bergen,Avenel (Bergen),95935,17143,1197,0.07,39.3,10,2.92,138.0,7.5,census_comprehensive
+07002,Bayonne,Bergen,Bayonne (Bergen),81285,70468,10107,0.143,38.6,4,0.28,138.0,8.8,census_comprehensive
+07003,Bloomfield,Bergen,Bloomfield (Bergen),98805,52921,4593,0.087,38.1,1,0.09,138.0,7.3,census_comprehensive
+07004,Fairfield,Bergen,Fairfield (Bergen),113750,7712,774,0.1,49.8,5,3.24,138.0,6.3,census_comprehensive
+07005,Boonton,Bergen,Boonton (Bergen),126411,15240,780,0.051,42.0,7,2.3,138.0,5.7,census_comprehensive
+07006,Caldwell,Bergen,Caldwell (Bergen),148645,26417,896,0.034,42.8,3,0.57,138.0,4.8,census_comprehensive
+07007,Caldwell,Bergen,Caldwell (Bergen),65000,15000,1800,0.12,38.0,8,2.67,138.0,11.0,census_comprehensive
+07008,Carteret,Bergen,Carteret (Bergen),87712,25220,2514,0.1,39.3,10,1.98,138.0,8.2,census_comprehensive
+07009,Cedar Grove,Bergen,Cedar Grove (Bergen),153654,13317,421,0.032,45.3,10,3.75,138.0,4.7,census_comprehensive
+07010,Cliffside Park,Bergen,Cliffside Park (Bergen),94960,25580,2873,0.112,41.0,3,0.59,138.0,7.6,census_comprehensive
+07011,Clifton,Bergen,Clifton (Bergen),73589,38817,4010,0.103,39.9,11,1.42,138.0,9.7,census_comprehensive
+07012,Clifton,Bergen,Clifton (Bergen),100341,15153,532,0.035,38.4,2,0.66,138.0,7.1,census_comprehensive
+07013,Clifton,Bergen,Clifton (Bergen),119291,29419,1560,0.053,46.4,7,1.19,138.0,6.0,census_comprehensive
+07014,Clifton,Bergen,Clifton (Bergen),138222,4867,484,0.099,39.0,8,8.22,138.0,5.2,census_comprehensive
+07015,Clifton,Bergen,Clifton (Bergen),65000,15000,1800,0.12,38.0,1,0.33,138.0,11.0,census_comprehensive
+07016,Cranford,Bergen,Cranford (Bergen),148629,23841,633,0.027,42.9,10,2.1,138.0,4.8,census_comprehensive
+07017,East Orange,Bergen,East Orange (Bergen),61552,40809,6953,0.17,36.2,4,0.49,138.0,11.6,census_comprehensive
+07018,East Orange,Bergen,East Orange (Bergen),59039,28261,5035,0.178,38.4,12,2.12,138.0,12.1,census_comprehensive
+07020,Edgewater,Bergen,Edgewater (Bergen),137847,14544,906,0.062,39.9,6,2.06,138.0,5.2,census_comprehensive
+07021,Essex Fells,Bergen,Essex Fells (Bergen),250001,2320,9,0.004,43.8,3,6.47,138.0,2.9,census_comprehensive
+07022,Fairview,Bergen,Fairview (Bergen),64152,14920,2638,0.177,39.0,6,2.01,138.0,11.2,census_comprehensive
+07023,Fanwood,Bergen,Fanwood (Bergen),176667,7714,105,0.014,42.4,6,3.89,138.0,4.1,census_comprehensive
+07024,Fort Lee,Bergen,Fort Lee (Bergen),105594,39785,3328,0.084,47.2,10,1.26,138.0,6.8,census_comprehensive
+07026,Garfield,Bergen,Garfield (Bergen),75701,32502,4589,0.141,39.0,12,1.85,138.0,9.5,census_comprehensive
+07027,Garwood,Bergen,Garwood (Bergen),100948,4688,432,0.092,42.7,1,1.07,138.0,7.1,census_comprehensive
+07028,Glen Ridge,Bergen,Glen Ridge (Bergen),246500,8002,80,0.01,41.2,10,6.25,138.0,2.9,census_comprehensive
+07030,Hoboken,Bergen,Hoboken (Bergen),176943,58340,4036,0.069,31.9,5,0.43,138.0,4.1,census_comprehensive
+07031,North Arlington,Bergen,North Arlington (Bergen),101493,16368,613,0.037,39.6,12,3.67,138.0,7.1,census_comprehensive
+07032,Kearny,Bergen,Kearny (Bergen),83212,40570,4811,0.119,39.2,9,1.11,138.0,8.6,census_comprehensive
+07033,Kenilworth,Bergen,Kenilworth (Bergen),126295,8339,496,0.059,38.6,10,6.0,138.0,5.7,census_comprehensive
+07034,Lake Hiawatha,Bergen,Lake Hiawatha (Bergen),101500,10406,277,0.027,40.3,5,2.4,138.0,7.1,census_comprehensive
+07035,Lincoln Park,Bergen,Lincoln Park (Bergen),117929,11085,352,0.032,47.1,3,1.35,138.0,6.1,census_comprehensive
+07036,Linden,Bergen,Linden (Bergen),89942,45101,3978,0.088,40.0,9,1.0,138.0,8.0,census_comprehensive
+07037,Area 037,Bergen,Area 037 (Bergen),65000,15000,1800,0.12,38.0,11,3.67,138.0,11.0,census_comprehensive
+07039,Livingston,Bergen,Livingston (Bergen),218416,31128,673,0.022,44.3,3,0.48,138.0,3.3,census_comprehensive
+07040,Maplewood,Bergen,Maplewood (Bergen),167428,25406,903,0.036,38.7,2,0.39,138.0,4.3,census_comprehensive
+07041,Millburn,Bergen,Millburn (Bergen),220923,7610,294,0.039,39.0,3,1.97,138.0,3.2,census_comprehensive
+07042,Montclair,Bergen,Montclair (Bergen),127083,27173,2305,0.085,38.8,4,0.74,138.0,5.6,census_comprehensive
+07043,Montclair,Bergen,Montclair (Bergen),250001,13502,214,0.016,40.8,3,1.11,138.0,2.9,census_comprehensive
+07044,Verona,Bergen,Verona (Bergen),159044,14441,726,0.05,42.9,3,1.04,138.0,4.5,census_comprehensive
+07045,Montville,Bergen,Montville (Bergen),179279,10206,295,0.029,48.6,4,1.96,138.0,4.0,census_comprehensive
+07046,Mountain Lakes,Bergen,Mountain Lakes (Bergen),250001,4535,60,0.013,43.6,6,6.62,138.0,2.9,census_comprehensive
+07047,North Bergen,Bergen,North Bergen (Bergen),75505,61202,7836,0.128,40.8,10,0.82,138.0,9.5,census_comprehensive
+07050,Orange,Bergen,Orange (Bergen),53109,33856,7068,0.209,35.1,2,0.3,138.0,13.5,census_comprehensive
+07051,Orange,Bergen,Orange (Bergen),65000,15000,1800,0.12,38.0,8,2.67,138.0,11.0,census_comprehensive
+07052,West Orange,Bergen,West Orange (Bergen),131456,48323,3433,0.071,41.7,8,0.83,138.0,5.5,census_comprehensive
+07054,Parsippany,Bergen,Parsippany (Bergen),107955,30139,1668,0.055,41.3,9,1.49,138.0,6.6,census_comprehensive
+07055,Passaic,Bergen,Passaic (Bergen),56780,69651,15968,0.229,30.9,8,0.57,138.0,12.6,census_comprehensive
+07057,Wallington,Bergen,Wallington (Bergen),82422,11825,1424,0.12,39.0,10,4.23,138.0,8.7,census_comprehensive
+07058,Pine Brook,Bergen,Pine Brook (Bergen),147207,5933,332,0.056,40.0,7,5.9,138.0,4.9,census_comprehensive
+07059,Warren,Bergen,Warren (Bergen),201579,16433,417,0.025,44.8,5,1.52,138.0,3.6,census_comprehensive
+07060,Plainfield,Bergen,Plainfield (Bergen),72882,47560,8347,0.176,33.9,11,1.16,138.0,9.8,census_comprehensive
+07062,Plainfield,Bergen,Plainfield (Bergen),92711,15018,2037,0.136,36.2,6,2.0,138.0,7.7,census_comprehensive
+07063,Plainfield,Bergen,Plainfield (Bergen),89840,14533,1978,0.136,32.9,11,3.78,138.0,8.0,census_comprehensive
+07064,Port Reading,Bergen,Port Reading (Bergen),143194,3742,69,0.018,40.0,6,8.02,138.0,5.0,census_comprehensive
+07065,Rahway,Bergen,Rahway (Bergen),90852,29748,2006,0.067,39.0,12,2.02,138.0,7.9,census_comprehensive
+07066,Clark,Bergen,Clark (Bergen),122610,15410,438,0.028,43.2,8,2.6,138.0,5.8,census_comprehensive
+07067,Colonia,Bergen,Colonia (Bergen),134301,18294,1067,0.058,43.3,12,3.28,138.0,5.3,census_comprehensive
+07068,Roseland,Bergen,Roseland (Bergen),160644,6211,143,0.023,47.0,11,8.86,138.0,4.5,census_comprehensive
+07069,Watchung,Bergen,Watchung (Bergen),166693,6545,158,0.024,46.8,10,7.64,138.0,4.3,census_comprehensive
+07070,Rutherford,Bergen,Rutherford (Bergen),136069,18748,883,0.047,40.7,11,2.93,138.0,5.3,census_comprehensive
+07071,Lyndhurst,Bergen,Lyndhurst (Bergen),109021,22343,1487,0.067,40.3,9,2.01,138.0,6.6,census_comprehensive
+07072,Carlstadt,Bergen,Carlstadt (Bergen),94854,6343,667,0.105,44.0,12,9.46,138.0,7.6,census_comprehensive
+07073,East Rutherford,Bergen,East Rutherford (Bergen),91789,10154,750,0.074,36.5,12,5.91,138.0,7.8,census_comprehensive
+07074,Moonachie,Bergen,Moonachie (Bergen),108359,3106,117,0.038,38.4,8,12.88,138.0,6.6,census_comprehensive
+07075,Wood Ridge,Bergen,Wood Ridge (Bergen),131412,10094,654,0.065,39.7,10,4.95,138.0,5.5,census_comprehensive
+07076,Scotch Plains,Bergen,Scotch Plains (Bergen),173564,24667,694,0.028,42.7,1,0.2,138.0,4.1,census_comprehensive
+07077,Sewaren,Bergen,Sewaren (Bergen),106926,3196,82,0.026,45.6,6,9.39,138.0,6.7,census_comprehensive
+07078,Short Hills,Bergen,Short Hills (Bergen),250001,14183,473,0.033,41.0,4,1.41,138.0,2.9,census_comprehensive
+07079,South Orange,Bergen,South Orange (Bergen),184769,18369,1020,0.056,36.8,4,1.09,138.0,3.9,census_comprehensive
+07080,South Plainfield,Bergen,South Plainfield (Bergen),126161,24215,836,0.035,41.7,9,1.86,138.0,5.7,census_comprehensive
+07081,Springfield,Bergen,Springfield (Bergen),146059,16984,931,0.055,42.4,1,0.29,138.0,4.9,census_comprehensive
+07082,Towaco,Bergen,Towaco (Bergen),194464,5688,89,0.016,47.6,2,1.76,138.0,3.7,census_comprehensive
+07083,Union,Bergen,Union (Bergen),118106,57036,3454,0.061,41.6,8,0.7,138.0,6.1,census_comprehensive
+07084,Area 084,Bergen,Area 084 (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07085,Area 085,Bergen,Area 085 (Bergen),65000,15000,1800,0.12,38.0,6,2.0,138.0,11.0,census_comprehensive
+07086,Weehawken,Bergen,Weehawken (Bergen),122653,16946,1077,0.064,37.9,10,2.95,138.0,5.8,census_comprehensive
+07087,Union City,Bergen,Union City (Bergen),65369,66375,14020,0.211,37.8,1,0.08,138.0,11.0,census_comprehensive
+07088,Vauxhall,Bergen,Vauxhall (Bergen),92041,3083,208,0.067,41.9,8,12.97,138.0,7.8,census_comprehensive
+07089,Area 089,Bergen,Area 089 (Bergen),65000,15000,1800,0.12,38.0,7,2.33,138.0,11.0,census_comprehensive
+07090,Westfield,Bergen,Westfield (Bergen),212700,30760,630,0.02,41.0,1,0.16,138.0,3.4,census_comprehensive
+07091,Westfield,Bergen,Westfield (Bergen),65000,15000,1800,0.12,38.0,4,1.33,138.0,11.0,census_comprehensive
+07092,Mountainside,Bergen,Mountainside (Bergen),210100,6967,195,0.028,48.7,6,4.31,138.0,3.4,census_comprehensive
+07093,West New York,Bergen,West New York (Bergen),70389,63321,12547,0.198,37.4,9,0.71,138.0,10.2,census_comprehensive
+07094,Secaucus,Bergen,Secaucus (Bergen),134746,21437,1262,0.059,38.6,7,1.63,138.0,5.3,census_comprehensive
+07095,Woodbridge,Bergen,Woodbridge (Bergen),99718,20086,1461,0.073,38.9,9,2.24,138.0,7.2,census_comprehensive
+07096,Secaucus,Bergen,Secaucus (Bergen),65000,15000,1800,0.12,38.0,2,0.67,138.0,11.0,census_comprehensive
+07097,Jersey City,Bergen,Jersey City (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07098,Avenel,Bergen,Avenel (Bergen),65000,15000,1800,0.12,38.0,7,2.33,138.0,11.0,census_comprehensive
+07099,Kearny,Bergen,Kearny (Bergen),65000,15000,1800,0.12,38.0,1,0.33,138.0,11.0,census_comprehensive
+07101,Newark,Bergen,Newark (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07102,Newark,Bergen,Newark (Bergen),37093,12954,3653,0.282,32.3,4,1.54,138.0,19.3,census_comprehensive
+07103,Newark,Bergen,Newark (Bergen),42397,36733,10702,0.291,31.8,12,1.63,138.0,16.9,census_comprehensive
+07104,Newark,Bergen,Newark (Bergen),51199,54277,12179,0.224,35.6,8,0.74,138.0,14.0,census_comprehensive
+07105,Newark,Bergen,Newark (Bergen),55752,56657,9912,0.175,34.6,1,0.09,138.0,12.9,census_comprehensive
+07106,Newark,Bergen,Newark (Bergen),48105,35999,7546,0.21,35.3,11,1.53,138.0,14.9,census_comprehensive
+07107,Newark,Bergen,Newark (Bergen),49892,42132,9601,0.228,36.4,2,0.24,138.0,14.4,census_comprehensive
+07108,Newark,Bergen,Newark (Bergen),33960,28317,10167,0.359,32.2,4,0.71,138.0,21.1,census_comprehensive
+07109,Belleville,Bergen,Belleville (Bergen),90164,37785,3891,0.103,41.1,9,1.19,138.0,8.0,census_comprehensive
+07110,Nutley,Bergen,Nutley (Bergen),115215,29746,1711,0.058,40.3,4,0.67,138.0,6.2,census_comprehensive
+07111,Irvington,Bergen,Irvington (Bergen),59232,60334,10829,0.179,34.9,8,0.66,138.0,12.1,census_comprehensive
+07112,Newark,Bergen,Newark (Bergen),55171,27633,5984,0.217,35.3,2,0.36,138.0,13.0,census_comprehensive
+07113,Area 113,Bergen,Area 113 (Bergen),65000,15000,1800,0.12,38.0,4,1.33,138.0,11.0,census_comprehensive
+07114,Newark,Bergen,Newark (Bergen),34167,12658,3231,0.255,40.3,5,1.98,138.0,21.0,census_comprehensive
+07115,Area 115,Bergen,Area 115 (Bergen),65000,15000,1800,0.12,38.0,6,2.0,138.0,11.0,census_comprehensive
+07116,Area 116,Bergen,Area 116 (Bergen),65000,15000,1800,0.12,38.0,12,4.0,138.0,11.0,census_comprehensive
+07117,Area 117,Bergen,Area 117 (Bergen),65000,15000,1800,0.12,38.0,11,3.67,138.0,11.0,census_comprehensive
+07118,Area 118,Bergen,Area 118 (Bergen),65000,15000,1800,0.12,38.0,11,3.67,138.0,11.0,census_comprehensive
+07120,Area 120,Bergen,Area 120 (Bergen),65000,15000,1800,0.12,38.0,10,3.33,138.0,11.0,census_comprehensive
+07121,Area 121,Bergen,Area 121 (Bergen),65000,15000,1800,0.12,38.0,2,0.67,138.0,11.0,census_comprehensive
+07122,Area 122,Bergen,Area 122 (Bergen),65000,15000,1800,0.12,38.0,8,2.67,138.0,11.0,census_comprehensive
+07123,Area 123,Bergen,Area 123 (Bergen),65000,15000,1800,0.12,38.0,7,2.33,138.0,11.0,census_comprehensive
+07124,Area 124,Bergen,Area 124 (Bergen),65000,15000,1800,0.12,38.0,6,2.0,138.0,11.0,census_comprehensive
+07126,Area 126,Bergen,Area 126 (Bergen),65000,15000,1800,0.12,38.0,7,2.33,138.0,11.0,census_comprehensive
+07127,Area 127,Bergen,Area 127 (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07128,Area 128,Bergen,Area 128 (Bergen),65000,15000,1800,0.12,38.0,8,2.67,138.0,11.0,census_comprehensive
+07130,Area 130,Bergen,Area 130 (Bergen),65000,15000,1800,0.12,38.0,8,2.67,138.0,11.0,census_comprehensive
+07131,Area 131,Bergen,Area 131 (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07132,Area 132,Bergen,Area 132 (Bergen),65000,15000,1800,0.12,38.0,2,0.67,138.0,11.0,census_comprehensive
+07133,Area 133,Bergen,Area 133 (Bergen),65000,15000,1800,0.12,38.0,4,1.33,138.0,11.0,census_comprehensive
+07134,Area 134,Bergen,Area 134 (Bergen),65000,15000,1800,0.12,38.0,1,0.33,138.0,11.0,census_comprehensive
+07135,Area 135,Bergen,Area 135 (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07136,Area 136,Bergen,Area 136 (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07137,Area 137,Bergen,Area 137 (Bergen),65000,15000,1800,0.12,38.0,5,1.67,138.0,11.0,census_comprehensive
+07139,Area 139,Bergen,Area 139 (Bergen),65000,15000,1800,0.12,38.0,11,3.67,138.0,11.0,census_comprehensive
+07201,Elizabeth,Bergen,Elizabeth (Bergen),62026,27725,5159,0.186,36.9,1,0.18,138.0,11.6,census_comprehensive
+07202,Elizabeth,Bergen,Elizabeth (Bergen),68071,44638,5397,0.121,36.2,6,0.67,138.0,10.5,census_comprehensive
+07203,Roselle,Bergen,Roselle (Bergen),82967,22455,2318,0.103,39.8,1,0.22,138.0,8.6,census_comprehensive
+07204,Roselle Park,Bergen,Roselle Park (Bergen),104418,13965,708,0.051,38.6,6,2.15,138.0,6.9,census_comprehensive
+07205,Hillside,Bergen,Hillside (Bergen),98558,22179,2104,0.095,36.3,10,2.25,138.0,7.3,census_comprehensive
+07206,Elizabeth,Bergen,Elizabeth (Bergen),60992,31120,5678,0.182,31.9,12,1.93,138.0,11.8,census_comprehensive
+07207,Elizabeth,Bergen,Elizabeth (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07208,Elizabeth,Bergen,Elizabeth (Bergen),61873,32404,4331,0.134,38.4,11,1.7,138.0,11.6,census_comprehensive
+07209,Area 209,Bergen,Area 209 (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07210,Area 210,Bergen,Area 210 (Bergen),65000,15000,1800,0.12,38.0,4,1.33,138.0,11.0,census_comprehensive
+07211,Area 211,Bergen,Area 211 (Bergen),65000,15000,1800,0.12,38.0,11,3.67,138.0,11.0,census_comprehensive
+07212,Area 212,Bergen,Area 212 (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07213,Area 213,Bergen,Area 213 (Bergen),65000,15000,1800,0.12,38.0,11,3.67,138.0,11.0,census_comprehensive
+07214,Area 214,Bergen,Area 214 (Bergen),65000,15000,1800,0.12,38.0,10,3.33,138.0,11.0,census_comprehensive
+07215,Elizabeth,Bergen,Elizabeth (Bergen),65000,15000,1800,0.12,38.0,1,0.33,138.0,11.0,census_comprehensive
+07216,Elizabeth,Bergen,Elizabeth (Bergen),65000,15000,1800,0.12,38.0,7,2.33,138.0,11.0,census_comprehensive
+07217,Area 217,Bergen,Area 217 (Bergen),65000,15000,1800,0.12,38.0,11,3.67,138.0,11.0,census_comprehensive
+07218,Area 218,Bergen,Area 218 (Bergen),65000,15000,1800,0.12,38.0,5,1.67,138.0,11.0,census_comprehensive
+07220,Area 220,Bergen,Area 220 (Bergen),65000,15000,1800,0.12,38.0,1,0.33,138.0,11.0,census_comprehensive
+07221,Area 221,Bergen,Area 221 (Bergen),65000,15000,1800,0.12,38.0,8,2.67,138.0,11.0,census_comprehensive
+07222,Area 222,Bergen,Area 222 (Bergen),65000,15000,1800,0.12,38.0,8,2.67,138.0,11.0,census_comprehensive
+07223,Area 223,Bergen,Area 223 (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07224,Area 224,Bergen,Area 224 (Bergen),65000,15000,1800,0.12,38.0,5,1.67,138.0,11.0,census_comprehensive
+07226,Area 226,Bergen,Area 226 (Bergen),65000,15000,1800,0.12,38.0,10,3.33,138.0,11.0,census_comprehensive
+07227,Area 227,Bergen,Area 227 (Bergen),65000,15000,1800,0.12,38.0,10,3.33,138.0,11.0,census_comprehensive
+07228,Area 228,Bergen,Area 228 (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07301,Area 301,Bergen,Area 301 (Bergen),65000,15000,1800,0.12,38.0,4,1.33,138.0,11.0,census_comprehensive
+07302,Jersey City,Bergen,Jersey City (Bergen),166854,55448,3907,0.07,34.4,3,0.27,138.0,4.3,census_comprehensive
+07303,Jersey City,Bergen,Jersey City (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07304,Jersey City,Bergen,Jersey City (Bergen),68432,49260,9854,0.2,34.6,9,0.91,138.0,10.5,census_comprehensive
+07305,Jersey City,Bergen,Jersey City (Bergen),77126,71643,13552,0.189,35.7,8,0.56,138.0,9.3,census_comprehensive
+07306,Jersey City,Bergen,Jersey City (Bergen),75861,54567,10031,0.184,35.7,5,0.46,138.0,9.5,census_comprehensive
+07307,Jersey City,Bergen,Jersey City (Bergen),80745,42242,5646,0.134,36.4,6,0.71,138.0,8.9,census_comprehensive
+07308,Jersey City,Bergen,Jersey City (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07309,Jersey City,Bergen,Jersey City (Bergen),65000,15000,1800,0.12,38.0,11,3.67,138.0,11.0,census_comprehensive
+07310,Jersey City,Bergen,Jersey City (Bergen),172946,14577,1772,0.122,30.7,4,1.37,138.0,4.1,census_comprehensive
+07311,Jersey City,Bergen,Jersey City (Bergen),179928,1954,64,0.033,30.2,5,12.79,138.0,4.0,census_comprehensive
+07312,Area 312,Bergen,Area 312 (Bergen),65000,15000,1800,0.12,38.0,2,0.67,138.0,11.0,census_comprehensive
+07313,Area 313,Bergen,Area 313 (Bergen),65000,15000,1800,0.12,38.0,11,3.67,138.0,11.0,census_comprehensive
+07314,Area 314,Bergen,Area 314 (Bergen),65000,15000,1800,0.12,38.0,11,3.67,138.0,11.0,census_comprehensive
+07315,Area 315,Bergen,Area 315 (Bergen),65000,15000,1800,0.12,38.0,8,2.67,138.0,11.0,census_comprehensive
+07316,Area 316,Bergen,Area 316 (Bergen),65000,15000,1800,0.12,38.0,7,2.33,138.0,11.0,census_comprehensive
+07317,Area 317,Bergen,Area 317 (Bergen),65000,15000,1800,0.12,38.0,12,4.0,138.0,11.0,census_comprehensive
+07318,Area 318,Bergen,Area 318 (Bergen),65000,15000,1800,0.12,38.0,4,1.33,138.0,11.0,census_comprehensive
+07401,Allendale,Bergen,Allendale (Bergen),156992,6820,223,0.033,45.7,10,7.33,138.0,4.6,census_comprehensive
+07402,Area 402,Bergen,Area 402 (Bergen),65000,15000,1800,0.12,38.0,10,3.33,138.0,11.0,census_comprehensive
+07403,Bloomingdale,Bergen,Bloomingdale (Bergen),126825,7644,830,0.109,43.8,8,5.23,138.0,5.7,census_comprehensive
+07404,Area 404,Bergen,Area 404 (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07405,Butler,Bergen,Butler (Bergen),127500,17859,956,0.054,41.9,10,2.8,138.0,5.6,census_comprehensive
+07406,Area 406,Bergen,Area 406 (Bergen),65000,15000,1800,0.12,38.0,4,1.33,138.0,11.0,census_comprehensive
+07407,Elmwood Park,Bergen,Elmwood Park (Bergen),100852,21287,2114,0.099,39.9,5,1.17,138.0,7.1,census_comprehensive
+07408,Area 408,Bergen,Area 408 (Bergen),65000,15000,1800,0.12,38.0,12,4.0,138.0,11.0,census_comprehensive
+07409,Area 409,Bergen,Area 409 (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07410,Fair Lawn,Bergen,Fair Lawn (Bergen),147952,35153,2124,0.06,39.2,3,0.43,138.0,4.8,census_comprehensive
+07411,Area 411,Bergen,Area 411 (Bergen),65000,15000,1800,0.12,38.0,2,0.67,138.0,11.0,census_comprehensive
+07412,Area 412,Bergen,Area 412 (Bergen),65000,15000,1800,0.12,38.0,5,1.67,138.0,11.0,census_comprehensive
+07413,Area 413,Bergen,Area 413 (Bergen),65000,15000,1800,0.12,38.0,6,2.0,138.0,11.0,census_comprehensive
+07414,Area 414,Bergen,Area 414 (Bergen),65000,15000,1800,0.12,38.0,5,1.67,138.0,11.0,census_comprehensive
+07415,Area 415,Bergen,Area 415 (Bergen),65000,15000,1800,0.12,38.0,7,2.33,138.0,11.0,census_comprehensive
+07416,Franklin,Bergen,Franklin (Bergen),90869,5746,419,0.073,50.6,12,10.44,138.0,7.9,census_comprehensive
+07417,Franklin Lakes,Bergen,Franklin Lakes (Bergen),231184,11035,354,0.032,46.9,11,4.98,138.0,3.1,census_comprehensive
+07418,Glenwood,Bergen,Glenwood (Bergen),200296,2523,25,0.01,38.0,4,7.93,138.0,3.6,census_comprehensive
+07419,Hamburg,Sussex,Hamburg (Sussex),109325,10102,800,0.079,44.6,5,2.47,124.8,5.9,census_comprehensive
+07420,Haskell,Passaic,Haskell (Passaic),106915,5235,458,0.087,42.9,12,11.46,127.2,6.2,census_comprehensive
+07421,Hewitt,Passaic,Hewitt (Passaic),132419,7660,237,0.031,46.4,3,1.96,127.2,5.0,census_comprehensive
+07422,Highland Lakes,Sussex,Highland Lakes (Sussex),110526,5216,107,0.021,45.4,7,6.71,124.8,5.9,census_comprehensive
+07424,Little Falls,Passaic,Little Falls (Passaic),104122,27475,1246,0.045,44.0,11,2.0,127.2,6.3,census_comprehensive
+07435,Newfoundland,Passaic,Newfoundland (Passaic),143191,2430,16,0.007,51.6,9,18.52,127.2,4.6,census_comprehensive
+07438,Oak Ridge,Morris,Oak Ridge (Morris),119594,11045,727,0.066,45.7,3,1.36,134.4,5.8,census_comprehensive
+07439,Ogdensburg,Sussex,Ogdensburg (Sussex),104946,2231,157,0.07,38.7,1,2.24,124.8,6.2,census_comprehensive
+07440,Pequannock,Morris,Pequannock (Morris),147976,4810,94,0.02,37.2,9,9.36,134.4,4.7,census_comprehensive
+07442,Pompton Lakes,Passaic,Pompton Lakes (Passaic),119038,11010,1061,0.096,39.4,3,1.36,127.2,5.6,census_comprehensive
+07444,Pompton Plains,Morris,Pompton Plains (Morris),113661,10766,739,0.069,53.3,2,0.93,134.4,6.1,census_comprehensive
+07456,Ringwood,Passaic,Ringwood (Passaic),142529,11600,281,0.024,43.6,2,0.86,127.2,4.6,census_comprehensive
+07457,Riverdale,Morris,Riverdale (Morris),96667,4084,414,0.101,50.2,12,14.69,134.4,7.2,census_comprehensive
+07460,Stockholm,Sussex,Stockholm (Sussex),118229,2990,79,0.026,43.9,11,18.39,124.8,5.5,census_comprehensive
+07461,Sussex,Sussex,Sussex (Sussex),104441,18575,1056,0.057,43.1,1,0.27,124.8,6.2,census_comprehensive
+07462,Vernon,Sussex,Vernon (Sussex),99125,6892,486,0.071,49.0,9,6.53,124.8,6.5,census_comprehensive
+07465,Wanaque,Passaic,Wanaque (Passaic),113673,5969,182,0.03,50.1,9,7.54,127.2,5.8,census_comprehensive
+07470,Wayne,Passaic,Wayne (Passaic),151561,54131,1566,0.029,41.7,6,0.55,127.2,4.4,census_comprehensive
+07480,West Milford,Passaic,West Milford (Passaic),114056,14440,462,0.032,48.4,5,1.73,127.2,5.8,census_comprehensive
+07501,Paterson,Bergen,Paterson (Bergen),40699,35321,9753,0.276,31.3,3,0.42,138.0,17.6,census_comprehensive
+07502,Paterson,Bergen,Paterson (Bergen),68649,17488,3906,0.223,33.2,6,1.72,138.0,10.4,census_comprehensive
+07503,Paterson,Bergen,Paterson (Bergen),60295,19567,4050,0.207,33.4,5,1.28,138.0,11.9,census_comprehensive
+07504,Paterson,Bergen,Paterson (Bergen),67269,13485,2472,0.183,37.8,7,2.6,138.0,10.7,census_comprehensive
+07505,Paterson,Bergen,Paterson (Bergen),33311,4617,1782,0.386,37.5,3,3.25,138.0,21.5,census_comprehensive
+07506,Hawthorne,Bergen,Hawthorne (Bergen),118093,19472,986,0.051,42.3,7,1.8,138.0,6.1,census_comprehensive
+07507,Hawthorne,Bergen,Hawthorne (Bergen),65000,15000,1800,0.12,38.0,4,1.33,138.0,11.0,census_comprehensive
+07508,Haledon,Bergen,Haledon (Bergen),94611,23611,2534,0.107,41.6,3,0.64,138.0,7.6,census_comprehensive
+07509,Paterson,Bergen,Paterson (Bergen),65000,15000,1800,0.12,38.0,10,3.33,138.0,11.0,census_comprehensive
+07510,Paterson,Bergen,Paterson (Bergen),65000,15000,1800,0.12,38.0,7,2.33,138.0,11.0,census_comprehensive
+07511,Totowa,Bergen,Totowa (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07512,Totowa,Bergen,Totowa (Bergen),114177,10919,413,0.038,43.1,10,4.58,138.0,6.3,census_comprehensive
+07513,Paterson,Bergen,Paterson (Bergen),64320,10961,1967,0.179,33.3,9,4.11,138.0,11.1,census_comprehensive
+07514,Paterson,Bergen,Paterson (Bergen),65492,18912,2930,0.155,39.1,11,2.91,138.0,10.9,census_comprehensive
+07515,Area 515,Bergen,Area 515 (Bergen),65000,15000,1800,0.12,38.0,1,0.33,138.0,11.0,census_comprehensive
+07516,Area 516,Bergen,Area 516 (Bergen),65000,15000,1800,0.12,38.0,10,3.33,138.0,11.0,census_comprehensive
+07517,Area 517,Bergen,Area 517 (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07518,Area 518,Bergen,Area 518 (Bergen),65000,15000,1800,0.12,38.0,4,1.33,138.0,11.0,census_comprehensive
+07524,Paterson,Passaic,Paterson (Passaic),50033,14676,3633,0.248,31.9,12,4.09,127.2,13.2,census_comprehensive
+07601,Hackensack,Bergen,Hackensack (Bergen),82212,45768,5037,0.11,41.5,6,0.66,138.0,8.7,census_comprehensive
+07602,Hackensack,Bergen,Hackensack (Bergen),65000,15000,1800,0.12,38.0,8,2.67,138.0,11.0,census_comprehensive
+07603,Bogota,Bergen,Bogota (Bergen),107321,9110,507,0.056,42.2,5,2.74,138.0,6.7,census_comprehensive
+07604,Hasbrouck Heights,Bergen,Hasbrouck Heights (Bergen),118670,12067,1135,0.094,44.2,10,4.14,138.0,6.0,census_comprehensive
+07605,Leonia,Bergen,Leonia (Bergen),115476,9333,333,0.036,46.3,6,3.21,138.0,6.2,census_comprehensive
+07606,South Hackensack,Bergen,South Hackensack (Bergen),82750,2771,423,0.153,36.8,11,19.85,138.0,8.7,census_comprehensive
+07607,Maywood,Bergen,Maywood (Bergen),119306,10042,281,0.028,45.6,2,1.0,138.0,6.0,census_comprehensive
+07608,Teterboro,Bergen,Teterboro (Bergen),65000,120,69,0.575,39.4,3,125.0,138.0,11.0,census_comprehensive
+07609,Area 609,Bergen,Area 609 (Bergen),65000,15000,1800,0.12,38.0,7,2.33,138.0,11.0,census_comprehensive
+07610,Area 610,Bergen,Area 610 (Bergen),65000,15000,1800,0.12,38.0,2,0.67,138.0,11.0,census_comprehensive
+07611,Area 611,Bergen,Area 611 (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07612,Area 612,Bergen,Area 612 (Bergen),65000,15000,1800,0.12,38.0,12,4.0,138.0,11.0,census_comprehensive
+07613,Area 613,Bergen,Area 613 (Bergen),65000,15000,1800,0.12,38.0,6,2.0,138.0,11.0,census_comprehensive
+07614,Area 614,Bergen,Area 614 (Bergen),65000,15000,1800,0.12,38.0,7,2.33,138.0,11.0,census_comprehensive
+07615,Area 615,Bergen,Area 615 (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07616,Area 616,Bergen,Area 616 (Bergen),65000,15000,1800,0.12,38.0,10,3.33,138.0,11.0,census_comprehensive
+07617,Area 617,Bergen,Area 617 (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07618,Area 618,Bergen,Area 618 (Bergen),65000,15000,1800,0.12,38.0,5,1.67,138.0,11.0,census_comprehensive
+07620,Alpine,Bergen,Alpine (Bergen),250001,1503,49,0.033,50.4,8,26.61,138.0,2.9,census_comprehensive
+07621,Bergenfield,Bergen,Bergenfield (Bergen),124083,28269,1709,0.06,40.7,7,1.24,138.0,5.8,census_comprehensive
+07622,Area 622,Bergen,Area 622 (Bergen),65000,15000,1800,0.12,38.0,4,1.33,138.0,11.0,census_comprehensive
+07623,Area 623,Bergen,Area 623 (Bergen),65000,15000,1800,0.12,38.0,7,2.33,138.0,11.0,census_comprehensive
+07624,Closter,Bergen,Closter (Bergen),187500,8544,608,0.071,40.3,7,4.1,138.0,3.8,census_comprehensive
+07626,Cresskill,Bergen,Cresskill (Bergen),173293,9101,209,0.023,45.0,6,3.3,138.0,4.1,census_comprehensive
+07627,Demarest,Bergen,Demarest (Bergen),175078,4916,39,0.008,45.9,9,9.15,138.0,4.1,census_comprehensive
+07628,Dumont,Bergen,Dumont (Bergen),125585,18072,1079,0.06,42.1,1,0.28,138.0,5.7,census_comprehensive
+07630,Emerson,Bergen,Emerson (Bergen),153963,7263,188,0.026,47.9,6,4.13,138.0,4.7,census_comprehensive
+07631,Englewood,Bergen,Englewood (Bergen),101398,29342,2849,0.097,43.0,2,0.34,138.0,7.1,census_comprehensive
+07632,Englewood Cliffs,Bergen,Englewood Cliffs (Bergen),222192,5330,249,0.047,49.9,12,11.26,138.0,3.2,census_comprehensive
+07633,Area 633,Bergen,Area 633 (Bergen),65000,15000,1800,0.12,38.0,11,3.67,138.0,11.0,census_comprehensive
+07634,Area 634,Bergen,Area 634 (Bergen),65000,15000,1800,0.12,38.0,2,0.67,138.0,11.0,census_comprehensive
+07635,Area 635,Bergen,Area 635 (Bergen),65000,15000,1800,0.12,38.0,2,0.67,138.0,11.0,census_comprehensive
+07636,Area 636,Bergen,Area 636 (Bergen),65000,15000,1800,0.12,38.0,7,2.33,138.0,11.0,census_comprehensive
+07637,Area 637,Bergen,Area 637 (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07639,Area 639,Bergen,Area 639 (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07640,Harrington Park,Bergen,Harrington Park (Bergen),180515,4883,281,0.058,46.7,7,7.17,138.0,4.0,census_comprehensive
+07641,Haworth,Bergen,Haworth (Bergen),227841,3321,124,0.037,44.8,2,3.01,138.0,3.1,census_comprehensive
+07642,Hillsdale,Bergen,Hillsdale (Bergen),169862,10086,393,0.039,42.4,10,4.96,138.0,4.2,census_comprehensive
+07643,Little Ferry,Bergen,Little Ferry (Bergen),79476,10942,931,0.085,44.8,7,3.2,138.0,9.0,census_comprehensive
+07644,Lodi,Bergen,Lodi (Bergen),84570,25946,4139,0.16,39.4,6,1.16,138.0,8.5,census_comprehensive
+07645,Montvale,Bergen,Montvale (Bergen),183664,8625,325,0.038,40.7,9,5.22,138.0,3.9,census_comprehensive
+07646,New Milford,Bergen,New Milford (Bergen),113513,16882,773,0.046,39.5,8,2.37,138.0,6.3,census_comprehensive
+07647,Northvale,Bergen,Northvale (Bergen),118614,5301,214,0.04,45.8,12,11.32,138.0,6.0,census_comprehensive
+07650,Palisades Park,Bergen,Palisades Park (Bergen),101295,20192,2017,0.1,43.2,4,0.99,138.0,7.1,census_comprehensive
+07651,Area 651,Bergen,Area 651 (Bergen),65000,15000,1800,0.12,38.0,12,4.0,138.0,11.0,census_comprehensive
+07652,Paramus,Bergen,Paramus (Bergen),139707,26500,1384,0.052,49.1,2,0.38,138.0,5.1,census_comprehensive
+07654,Area 654,Bergen,Area 654 (Bergen),65000,15000,1800,0.12,38.0,6,2.0,138.0,11.0,census_comprehensive
+07655,Area 655,Bergen,Area 655 (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07657,Ridgefield,Bergen,Ridgefield (Bergen),115676,11439,578,0.051,40.3,3,1.31,138.0,6.2,census_comprehensive
+07658,Area 658,Bergen,Area 658 (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07659,Area 659,Bergen,Area 659 (Bergen),65000,15000,1800,0.12,38.0,6,2.0,138.0,11.0,census_comprehensive
+07660,Ridgefield Park,Bergen,Ridgefield Park (Bergen),98184,13167,1685,0.128,38.0,7,2.66,138.0,7.3,census_comprehensive
+07662,Rochelle Park,Bergen,Rochelle Park (Bergen),118259,5820,309,0.053,48.3,3,2.58,138.0,6.1,census_comprehensive
+07663,Saddle Brook,Bergen,Saddle Brook (Bergen),125935,14349,776,0.054,40.8,1,0.35,138.0,5.7,census_comprehensive
+07664,Area 664,Bergen,Area 664 (Bergen),65000,15000,1800,0.12,38.0,10,3.33,138.0,11.0,census_comprehensive
+07665,Area 665,Bergen,Area 665 (Bergen),65000,15000,1800,0.12,38.0,8,2.67,138.0,11.0,census_comprehensive
+07666,Teaneck,Bergen,Teaneck (Bergen),134311,41499,2249,0.054,37.9,10,1.2,138.0,5.3,census_comprehensive
+07668,Area 668,Bergen,Area 668 (Bergen),65000,15000,1800,0.12,38.0,1,0.33,138.0,11.0,census_comprehensive
+07669,Area 669,Bergen,Area 669 (Bergen),65000,15000,1800,0.12,38.0,10,3.33,138.0,11.0,census_comprehensive
+07670,Tenafly,Bergen,Tenafly (Bergen),208088,15252,560,0.037,42.1,7,2.29,138.0,3.4,census_comprehensive
+07671,Area 671,Bergen,Area 671 (Bergen),65000,15000,1800,0.12,38.0,8,2.67,138.0,11.0,census_comprehensive
+07672,Area 672,Bergen,Area 672 (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07673,Area 673,Bergen,Area 673 (Bergen),65000,15000,1800,0.12,38.0,8,2.67,138.0,11.0,census_comprehensive
+07674,Area 674,Bergen,Area 674 (Bergen),65000,15000,1800,0.12,38.0,12,4.0,138.0,11.0,census_comprehensive
+07675,Westwood,Bergen,Westwood (Bergen),176981,27050,890,0.033,43.1,11,2.03,138.0,4.1,census_comprehensive
+07676,Township Of Washington,Bergen,Township Of Washington (Bergen),168922,9276,233,0.025,46.0,10,5.39,138.0,4.2,census_comprehensive
+07677,Woodcliff Lake,Bergen,Woodcliff Lake (Bergen),211233,6097,126,0.021,45.2,8,6.56,138.0,3.4,census_comprehensive
+07678,Area 678,Bergen,Area 678 (Bergen),65000,15000,1800,0.12,38.0,5,1.67,138.0,11.0,census_comprehensive
+07679,Area 679,Bergen,Area 679 (Bergen),65000,15000,1800,0.12,38.0,1,0.33,138.0,11.0,census_comprehensive
+07680,Area 680,Bergen,Area 680 (Bergen),65000,15000,1800,0.12,38.0,1,0.33,138.0,11.0,census_comprehensive
+07681,Area 681,Bergen,Area 681 (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07682,Area 682,Bergen,Area 682 (Bergen),65000,15000,1800,0.12,38.0,9,3.0,138.0,11.0,census_comprehensive
+07683,Area 683,Bergen,Area 683 (Bergen),65000,15000,1800,0.12,38.0,12,4.0,138.0,11.0,census_comprehensive
+07686,Area 686,Bergen,Area 686 (Bergen),65000,15000,1800,0.12,38.0,2,0.67,138.0,11.0,census_comprehensive
+07687,Area 687,Bergen,Area 687 (Bergen),65000,15000,1800,0.12,38.0,7,2.33,138.0,11.0,census_comprehensive
+07688,Teaneck,Bergen,Teaneck (Bergen),65000,15000,1800,0.12,38.0,3,1.0,138.0,11.0,census_comprehensive
+07701,Red Bank,Monmouth,Red Bank (Monmouth),113630,24544,1551,0.063,43.1,12,2.44,130.8,6.0,census_comprehensive
+07702,Shrewsbury,Monmouth,Shrewsbury (Monmouth),144500,4162,144,0.035,42.0,3,3.6,130.8,4.7,census_comprehensive
+07703,Fort Monmouth,Monmouth,Fort Monmouth (Monmouth),65000,0,0,0.12,-666666666.0,3,0,130.8,10.5,census_comprehensive
+07704,Fair Haven,Monmouth,Fair Haven (Monmouth),237132,6182,74,0.012,40.5,8,6.47,130.8,2.9,census_comprehensive
+07711,Allenhurst,Monmouth,Allenhurst (Monmouth),125938,1820,73,0.04,38.2,7,19.23,130.8,5.4,census_comprehensive
+07712,Asbury Park,Monmouth,Asbury Park (Monmouth),95691,39597,4432,0.112,41.1,3,0.38,130.8,7.1,census_comprehensive
+07716,Atlantic Highlands,Monmouth,Atlantic Highlands (Monmouth),124096,8528,308,0.036,50.3,4,2.35,130.8,5.5,census_comprehensive
+07717,Avon By The Sea,Monmouth,Avon By The Sea (Monmouth),109113,1801,115,0.064,55.3,6,16.66,130.8,6.2,census_comprehensive
+07718,Belford,Monmouth,Belford (Monmouth),139313,7057,190,0.027,39.3,3,2.13,130.8,4.9,census_comprehensive
+07719,Belmar,Monmouth,Belmar (Monmouth),119877,22138,1107,0.05,45.4,9,2.03,130.8,5.7,census_comprehensive
+07720,Bradley Beach,Monmouth,Bradley Beach (Monmouth),94722,4147,248,0.06,41.4,1,1.21,130.8,7.2,census_comprehensive
+07721,Cliffwood,Monmouth,Cliffwood (Monmouth),128110,4445,237,0.053,30.9,12,13.5,130.8,5.3,census_comprehensive
+07722,Colts Neck,Monmouth,Colts Neck (Monmouth),183015,9977,350,0.035,48.7,8,4.01,130.8,3.7,census_comprehensive
+07723,Deal,Monmouth,Deal (Monmouth),86563,815,124,0.152,54.8,7,42.94,130.8,7.9,census_comprehensive
+07724,Eatontown,Monmouth,Eatontown (Monmouth),99170,23830,1936,0.081,45.6,10,2.1,130.8,6.9,census_comprehensive
+07726,Englishtown,Monmouth,Englishtown (Monmouth),145625,44698,2241,0.05,44.2,7,0.78,130.8,4.7,census_comprehensive
+07727,Farmingdale,Monmouth,Farmingdale (Monmouth),131125,7135,218,0.031,44.3,8,5.61,130.8,5.2,census_comprehensive
+07728,Freehold,Monmouth,Freehold (Monmouth),107042,56623,4145,0.073,41.7,7,0.62,130.8,6.3,census_comprehensive
+07730,Hazlet,Monmouth,Hazlet (Monmouth),122276,17193,733,0.043,46.0,1,0.29,130.8,5.6,census_comprehensive
+07731,Howell,Monmouth,Howell (Monmouth),130064,39924,2942,0.074,38.9,8,1.0,130.8,5.2,census_comprehensive
+07732,Highlands,Monmouth,Highlands (Monmouth),90205,4686,349,0.074,48.8,10,10.67,130.8,7.5,census_comprehensive
+07733,Holmdel,Monmouth,Holmdel (Monmouth),175559,17113,643,0.038,48.1,3,0.88,130.8,3.9,census_comprehensive
+07734,Keansburg,Monmouth,Keansburg (Monmouth),89073,13188,1241,0.094,40.6,6,2.27,130.8,7.6,census_comprehensive
+07735,Keyport,Monmouth,Keyport (Monmouth),98760,19203,1019,0.053,43.6,12,3.12,130.8,6.9,census_comprehensive
+07737,Leonardo,Monmouth,Leonardo (Monmouth),134818,4158,162,0.039,39.5,4,4.81,130.8,5.0,census_comprehensive
+07738,Lincroft,Monmouth,Lincroft (Monmouth),168945,6901,152,0.022,43.4,12,8.69,130.8,4.0,census_comprehensive
+07739,Little Silver,Monmouth,Little Silver (Monmouth),220746,6096,148,0.024,46.8,7,5.74,130.8,3.1,census_comprehensive
+07746,Marlboro,Monmouth,Marlboro (Monmouth),186885,18137,646,0.036,46.5,11,3.03,130.8,3.6,census_comprehensive
+07747,Matawan,Monmouth,Matawan (Monmouth),124896,32246,2094,0.065,41.7,8,1.24,130.8,5.4,census_comprehensive
+07748,Middletown,Monmouth,Middletown (Monmouth),152488,28288,1232,0.044,43.5,8,1.41,130.8,4.5,census_comprehensive
+07750,Monmouth Beach,Monmouth,Monmouth Beach (Monmouth),140074,3201,74,0.023,58.3,8,12.5,130.8,4.9,census_comprehensive
+07751,Morganville,Monmouth,Morganville (Monmouth),172576,21431,732,0.034,42.5,9,2.1,130.8,3.9,census_comprehensive
+07752,Navesink,Monmouth,Navesink (Monmouth),65000,15000,1800,0.12,38.0,3,1.0,130.8,10.5,census_comprehensive
+07753,Neptune,Monmouth,Neptune (Monmouth),92824,37208,3750,0.101,43.7,4,0.54,130.8,7.3,census_comprehensive
+07755,Oakhurst,Monmouth,Oakhurst (Monmouth),133299,6150,424,0.069,35.4,9,7.32,130.8,5.1,census_comprehensive
+07756,Ocean Grove,Monmouth,Ocean Grove (Monmouth),74410,3033,190,0.063,62.3,10,16.49,130.8,9.1,census_comprehensive
+07757,Oceanport,Monmouth,Oceanport (Monmouth),156196,6130,180,0.029,48.3,8,6.53,130.8,4.4,census_comprehensive
+07758,Port Monmouth,Monmouth,Port Monmouth (Monmouth),121150,4230,231,0.055,47.3,6,7.09,130.8,5.6,census_comprehensive
+07760,Rumson,Monmouth,Rumson (Monmouth),217545,9557,392,0.041,46.5,4,2.09,130.8,3.1,census_comprehensive
+07762,Spring Lake,Monmouth,Spring Lake (Monmouth),103947,8205,415,0.051,55.0,3,1.83,130.8,6.5,census_comprehensive
+07763,Tennent,Monmouth,Tennent (Monmouth),65000,15000,1800,0.12,38.0,7,2.33,130.8,10.5,census_comprehensive
+07764,West Long Branch,Monmouth,West Long Branch (Monmouth),123661,8576,198,0.023,30.4,5,2.92,130.8,5.5,census_comprehensive
+07821,Andover,Sussex,Andover (Sussex),145100,9036,221,0.024,42.9,2,1.11,124.8,4.5,census_comprehensive
+07822,Augusta,Sussex,Augusta (Sussex),106250,904,16,0.018,51.9,9,49.78,124.8,6.1,census_comprehensive
+07823,Belvidere,Warren,Belvidere (Warren),84381,7542,725,0.096,55.3,1,0.66,120.0,7.4,census_comprehensive
+07825,Blairstown,Warren,Blairstown (Warren),123355,9271,412,0.044,48.5,4,2.16,120.0,5.1,census_comprehensive
+07826,Branchville,Sussex,Branchville (Sussex),114784,5575,188,0.034,49.4,11,9.87,124.8,5.6,census_comprehensive
+07827,Montague,Sussex,Montague (Sussex),99938,4111,330,0.08,43.6,5,6.08,124.8,6.5,census_comprehensive
+07828,Budd Lake,Morris,Budd Lake (Morris),96989,14723,885,0.06,37.7,9,3.06,134.4,7.2,census_comprehensive
+07830,Califon,Hunterdon,Califon (Hunterdon),181023,7451,145,0.019,50.6,6,4.03,133.2,3.8,census_comprehensive
+07831,Changewater,Warren,Changewater (Warren),65000,39,0,0.0,-666666666.0,5,641.03,120.0,9.6,census_comprehensive
+07832,Columbia,Warren,Columbia (Warren),104358,3459,130,0.038,44.9,11,15.9,120.0,6.0,census_comprehensive
+07833,Delaware,Warren,Delaware (Warren),138750,72,6,0.083,67.6,10,694.44,120.0,4.5,census_comprehensive
+07834,Denville,Morris,Denville (Morris),162644,18203,522,0.029,41.6,8,2.2,134.4,4.3,census_comprehensive
+07836,Flanders,Morris,Flanders (Morris),154743,12104,436,0.036,44.0,7,2.89,134.4,4.5,census_comprehensive
+07838,Great Meadows,Warren,Great Meadows (Warren),121563,3495,196,0.056,42.2,5,7.15,120.0,5.1,census_comprehensive
+07840,Hackettstown,Warren,Hackettstown (Warren),107956,31995,1765,0.055,42.9,8,1.25,120.0,5.8,census_comprehensive
+07842,Hibernia,Morris,Hibernia (Morris),65000,52,0,0.0,-666666666.0,10,961.54,134.4,10.7,census_comprehensive
+07843,Hopatcong,Sussex,Hopatcong (Sussex),111433,11309,464,0.041,41.4,5,2.21,124.8,5.8,census_comprehensive
+07844,Hope,Warren,Hope (Warren),78015,111,3,0.027,25.3,12,540.54,120.0,8.0,census_comprehensive
+07845,Ironia,Warren,Ironia (Warren),65000,15000,1800,0.12,38.0,12,4.0,120.0,9.6,census_comprehensive
+07846,Johnsonburg,Warren,Johnsonburg (Warren),114000,29,0,0.0,69.4,4,689.66,120.0,5.5,census_comprehensive
+07847,Kenvil,Morris,Kenvil (Morris),81313,1769,115,0.065,42.7,6,16.96,134.4,8.6,census_comprehensive
+07848,Lafayette,Sussex,Lafayette (Sussex),116042,4513,302,0.067,52.6,4,4.43,124.8,5.6,census_comprehensive
+07849,Lake Hopatcong,Morris,Lake Hopatcong (Morris),111081,8475,243,0.029,47.4,5,2.95,134.4,6.3,census_comprehensive
+07850,Landing,Morris,Landing (Morris),101765,7328,643,0.088,39.8,8,5.46,134.4,6.9,census_comprehensive
+07851,Layton,Sussex,Layton (Sussex),105139,298,0,0.0,37.6,6,100.67,124.8,6.2,census_comprehensive
+07852,Ledgewood,Morris,Ledgewood (Morris),90924,3893,172,0.044,47.1,9,11.56,134.4,7.7,census_comprehensive
+07853,Long Valley,Morris,Long Valley (Morris),183692,12360,398,0.032,44.3,8,3.24,134.4,3.8,census_comprehensive
+07856,Mount Arlington,Morris,Mount Arlington (Morris),98397,4280,275,0.064,47.5,9,10.51,134.4,7.1,census_comprehensive
+07857,Netcong,Morris,Netcong (Morris),92596,3543,298,0.084,43.6,8,11.29,134.4,7.5,census_comprehensive
+07860,Newton,Warren,Newton (Warren),104113,26521,2233,0.084,46.2,9,1.7,120.0,6.0,census_comprehensive
+07863,Oxford,Warren,Oxford (Warren),101417,4097,239,0.058,49.3,10,12.2,120.0,6.1,census_comprehensive
+07865,Port Murray,Warren,Port Murray (Warren),108881,3284,172,0.052,33.9,12,18.27,120.0,5.7,census_comprehensive
+07866,Rockaway,Warren,Rockaway (Warren),123828,22632,880,0.039,45.3,11,2.43,120.0,5.0,census_comprehensive
+07869,Randolph,Warren,Randolph (Warren),170862,25919,1332,0.051,40.3,5,0.96,120.0,3.6,census_comprehensive
+07871,Sparta,Sussex,Sparta (Sussex),167443,21167,651,0.031,42.2,8,1.89,124.8,3.9,census_comprehensive
+07874,Stanhope,Sussex,Stanhope (Sussex),125517,8498,325,0.038,40.4,12,7.06,124.8,5.2,census_comprehensive
+07875,Stillwater,Warren,Stillwater (Warren),65000,15000,1800,0.12,38.0,7,2.33,120.0,9.6,census_comprehensive
+07876,Succasunna,Morris,Succasunna (Morris),163814,9667,359,0.037,45.5,4,2.07,134.4,4.3,census_comprehensive
+07878,Mount Tabor,Morris,Mount Tabor (Morris),113875,712,0,0.0,43.0,12,84.27,134.4,6.1,census_comprehensive
+07880,Vienna,Warren,Vienna (Warren),110134,195,11,0.056,42.0,2,51.28,120.0,5.7,census_comprehensive
+07881,Wallpack Center,Sussex,Wallpack Center (Sussex),65000,0,0,0.12,-666666666.0,9,0,124.8,10.0,census_comprehensive
+07882,Washington,Warren,Washington (Warren),100852,14918,1225,0.082,43.3,5,1.68,120.0,6.2,census_comprehensive
+07885,Wharton,Morris,Wharton (Morris),100903,11864,1584,0.134,40.2,7,2.95,134.4,6.9,census_comprehensive
+07886,Area 886,Warren,Area 886 (Warren),65000,15000,1800,0.12,38.0,3,1.0,120.0,9.6,census_comprehensive
+07890,Branchville,Warren,Branchville (Warren),65000,15000,1800,0.12,38.0,6,2.0,120.0,9.6,census_comprehensive
+08001,Alloway,Burlington,Alloway (Burlington),138799,931,0,0.0,50.8,2,10.74,123.6,4.6,census_comprehensive
+08002,Cherry Hill,Burlington,Cherry Hill (Burlington),105523,23574,2235,0.095,39.6,11,2.33,123.6,6.1,census_comprehensive
+08003,Cherry Hill,Burlington,Cherry Hill (Burlington),155947,31929,1692,0.053,45.9,6,0.94,123.6,4.1,census_comprehensive
+08004,Atco,Burlington,Atco (Burlington),107041,10946,948,0.087,45.4,5,2.28,123.6,6.0,census_comprehensive
+08005,Barnegat,Ocean,Barnegat (Ocean),92548,25936,1924,0.074,52.0,7,1.35,122.4,6.9,census_comprehensive
+08006,Barnegat Light,Ocean,Barnegat Light (Ocean),104583,473,17,0.036,60.9,9,95.14,122.4,6.1,census_comprehensive
+08007,Barrington,Burlington,Barrington (Burlington),94375,5460,304,0.056,46.5,3,2.75,123.6,6.8,census_comprehensive
+08008,Beach Haven,Ocean,Beach Haven (Ocean),116544,6938,381,0.055,62.5,12,8.65,122.4,5.5,census_comprehensive
+08009,Berlin,Burlington,Berlin (Burlington),101964,14967,1073,0.072,42.0,6,2.0,123.6,6.3,census_comprehensive
+08010,Beverly,Burlington,Beverly (Burlington),85285,11506,1908,0.166,43.3,6,2.61,123.6,7.5,census_comprehensive
+08012,Blackwood,Gloucester,Blackwood (Gloucester),93497,40830,3706,0.091,40.4,4,0.49,116.4,6.5,census_comprehensive
+08015,Browns Mills,Burlington,Browns Mills (Burlington),78926,19143,2045,0.107,43.7,3,0.78,123.6,8.1,census_comprehensive
+08016,Burlington,Burlington,Burlington (Burlington),92560,34801,3807,0.109,41.6,9,1.29,123.6,6.9,census_comprehensive
+08019,Chatsworth,Burlington,Chatsworth (Burlington),168036,914,41,0.045,48.6,3,16.41,123.6,3.8,census_comprehensive
+08020,Clarksboro,Burlington,Clarksboro (Burlington),132306,2522,56,0.022,52.8,8,15.86,123.6,4.9,census_comprehensive
+08022,Columbus,Burlington,Columbus (Burlington),118558,9349,434,0.046,49.2,8,4.28,123.6,5.4,census_comprehensive
+08028,Glassboro,Gloucester,Glassboro (Gloucester),81993,24806,3170,0.128,30.2,12,2.42,116.4,7.4,census_comprehensive
+08030,Gloucester City,Gloucester,Gloucester City (Gloucester),66190,13185,1676,0.127,33.8,11,4.17,116.4,9.1,census_comprehensive
+08031,Bellmawr,Gloucester,Bellmawr (Gloucester),74812,11678,1116,0.096,41.1,10,4.28,116.4,8.1,census_comprehensive
+08032,Grenloch,Gloucester,Grenloch (Gloucester),192609,220,0,0.0,48.3,5,113.64,116.4,3.1,census_comprehensive
+08035,Haddon Heights,Gloucester,Haddon Heights (Gloucester),124592,7530,180,0.024,40.2,9,5.98,116.4,4.9,census_comprehensive
+08036,Hainesport,Gloucester,Hainesport (Gloucester),137610,6028,117,0.019,51.0,10,8.29,116.4,4.4,census_comprehensive
+08037,Hammonton,Gloucester,Hammonton (Gloucester),83762,23385,2281,0.098,46.8,3,0.64,116.4,7.2,census_comprehensive
+08039,Harrisonville,Gloucester,Harrisonville (Gloucester),65000,29,0,0.0,60.9,9,1551.72,116.4,9.3,census_comprehensive
+08041,Jobstown,Gloucester,Jobstown (Gloucester),136250,788,24,0.03,52.1,5,31.73,116.4,4.4,census_comprehensive
+08042,Juliustown,Gloucester,Juliustown (Gloucester),65000,57,9,0.158,52.7,4,350.88,116.4,9.3,census_comprehensive
+08048,Lumberton,Burlington,Lumberton (Burlington),111739,12806,743,0.058,41.7,5,1.95,123.6,5.7,census_comprehensive
+08050,Manahawkin,Ocean,Manahawkin (Ocean),115456,27599,874,0.032,46.6,1,0.18,122.4,5.5,census_comprehensive
+08051,Mantua,Burlington,Mantua (Burlington),97452,12156,720,0.059,37.8,5,2.06,123.6,6.6,census_comprehensive
+08052,Maple Shade,Burlington,Maple Shade (Burlington),75732,19970,2523,0.126,37.0,3,0.75,123.6,8.5,census_comprehensive
+08054,Mount Laurel,Burlington,Mount Laurel (Burlington),114629,45427,1900,0.042,43.1,7,0.77,123.6,5.6,census_comprehensive
+08055,Medford,Burlington,Medford (Burlington),158487,28855,821,0.028,47.1,10,1.73,123.6,4.1,census_comprehensive
+08056,Mickleton,Gloucester,Mickleton (Gloucester),148409,5164,39,0.008,43.5,9,8.71,116.4,4.1,census_comprehensive
+08060,Mount Holly,Burlington,Mount Holly (Burlington),107165,25647,1668,0.065,38.3,1,0.19,123.6,6.0,census_comprehensive
+08061,Mount Royal,Burlington,Mount Royal (Burlington),157222,4411,21,0.005,38.9,2,2.27,123.6,4.1,census_comprehensive
+08062,Mullica Hill,Gloucester,Mullica Hill (Gloucester),159386,17969,898,0.05,40.3,4,1.11,116.4,3.8,census_comprehensive
+08063,National Park,Gloucester,National Park (Gloucester),81654,3056,233,0.076,40.9,5,8.18,116.4,7.4,census_comprehensive
+08065,Palmyra,Burlington,Palmyra (Burlington),85014,7447,659,0.088,42.7,10,6.71,123.6,7.6,census_comprehensive
+08066,Paulsboro,Gloucester,Paulsboro (Gloucester),62412,7412,926,0.125,40.2,3,2.02,116.4,9.7,census_comprehensive
+08067,Pedricktown,Gloucester,Pedricktown (Gloucester),108884,1704,121,0.071,39.8,12,35.21,116.4,5.6,census_comprehensive
+08068,Pemberton,Burlington,Pemberton (Burlington),79570,6811,693,0.102,42.6,10,7.34,123.6,8.1,census_comprehensive
+08069,Penns Grove,Salem,Penns Grove (Salem),68397,13413,2658,0.198,40.7,1,0.37,114.0,8.7,census_comprehensive
+08070,Pennsville,Salem,Pennsville (Salem),74006,12477,1559,0.125,42.3,6,2.4,114.0,8.0,census_comprehensive
+08071,Pitman,Salem,Pitman (Salem),97222,9407,412,0.044,40.3,3,1.59,114.0,6.1,census_comprehensive
+08072,Quinton,Salem,Quinton (Salem),54760,173,0,0.0,28.5,3,86.71,114.0,10.8,census_comprehensive
+08079,Salem,Salem,Salem (Salem),60375,10696,2018,0.189,41.0,11,5.14,114.0,9.8,census_comprehensive
+08080,Sewell,Gloucester,Sewell (Gloucester),119919,39360,1802,0.046,42.2,2,0.25,116.4,5.0,census_comprehensive
+08081,Sicklerville,Salem,Sicklerville (Salem),102924,49418,4484,0.091,37.4,2,0.2,114.0,5.8,census_comprehensive
+08083,Somerdale,Salem,Somerdale (Salem),87703,9626,914,0.095,42.1,11,5.71,114.0,6.8,census_comprehensive
+08084,Stratford,Salem,Stratford (Salem),100735,6965,698,0.1,36.2,1,0.72,114.0,5.9,census_comprehensive
+08085,Swedesboro,Gloucester,Swedesboro (Gloucester),137028,21856,2025,0.093,37.1,1,0.23,116.4,4.4,census_comprehensive
+08086,Thorofare,Gloucester,Thorofare (Gloucester),88125,8534,549,0.064,43.7,11,6.44,116.4,6.9,census_comprehensive
+08088,Vincentown,Salem,Vincentown (Salem),107980,24153,1208,0.05,51.9,10,2.07,114.0,5.5,census_comprehensive
+08089,Waterford Works,Gloucester,Waterford Works (Gloucester),120417,4195,227,0.054,44.8,5,5.96,116.4,5.0,census_comprehensive
+08090,Wenonah,Gloucester,Wenonah (Gloucester),114742,9574,901,0.094,35.3,2,1.04,116.4,5.3,census_comprehensive
+08092,West Creek,Ocean,West Creek (Ocean),97058,3182,241,0.076,41.5,7,11.0,122.4,6.6,census_comprehensive
+08093,Westville,Gloucester,Westville (Gloucester),70257,9224,1651,0.179,41.7,9,4.88,116.4,8.6,census_comprehensive
+08094,Williamstown,Gloucester,Williamstown (Gloucester),92125,40542,2836,0.07,39.7,6,0.74,116.4,6.6,census_comprehensive
+08096,Woodbury,Gloucester,Woodbury (Gloucester),89483,35896,2941,0.082,41.1,12,1.67,116.4,6.8,census_comprehensive
+08097,Woodbury Heights,Gloucester,Woodbury Heights (Gloucester),117614,3207,170,0.053,44.6,11,17.15,116.4,5.1,census_comprehensive
+08098,Woodstown,Salem,Woodstown (Salem),119000,9475,410,0.043,44.1,11,5.8,114.0,5.0,census_comprehensive
+08101,Camden,Camden,Camden (Camden),65000,15000,1800,0.12,38.0,6,2.0,117.6,9.4,census_comprehensive
+08102,Camden,Camden,Camden (Camden),30895,8090,3072,0.38,33.1,1,0.62,117.6,19.8,census_comprehensive
+08103,Camden,Camden,Camden (Camden),37563,13137,3551,0.27,36.2,4,1.52,117.6,16.3,census_comprehensive
+08104,Camden,Camden,Camden (Camden),36566,21508,6375,0.296,33.4,10,2.32,117.6,16.7,census_comprehensive
+08105,Camden,Camden,Camden (Camden),48319,26681,6231,0.234,30.7,3,0.56,117.6,12.6,census_comprehensive
+08106,Audubon,Camden,Audubon (Camden),107539,9678,315,0.033,39.5,3,1.55,117.6,5.7,census_comprehensive
+08107,Oaklyn,Camden,Oaklyn (Camden),70262,13699,1350,0.099,38.6,11,4.01,117.6,8.7,census_comprehensive
+08108,Collingswood,Camden,Collingswood (Camden),107764,18730,1546,0.083,39.9,1,0.27,117.6,5.7,census_comprehensive
+08109,Merchantville,Camden,Merchantville (Camden),84332,24004,3648,0.152,40.3,12,2.5,117.6,7.2,census_comprehensive
+08110,Pennsauken,Camden,Pennsauken (Camden),81307,18955,3053,0.161,36.5,6,1.58,117.6,7.5,census_comprehensive
+08111,Area 111,Camden,Area 111 (Camden),65000,15000,1800,0.12,38.0,5,1.67,117.6,9.4,census_comprehensive
+08112,Area 112,Camden,Area 112 (Camden),65000,15000,1800,0.12,38.0,11,3.67,117.6,9.4,census_comprehensive
+08113,Area 113,Camden,Area 113 (Camden),65000,15000,1800,0.12,38.0,10,3.33,117.6,9.4,census_comprehensive
+08114,Area 114,Camden,Area 114 (Camden),65000,15000,1800,0.12,38.0,2,0.67,117.6,9.4,census_comprehensive
+08115,Area 115,Camden,Area 115 (Camden),65000,15000,1800,0.12,38.0,10,3.33,117.6,9.4,census_comprehensive
+08120,Area 120,Camden,Area 120 (Camden),65000,15000,1800,0.12,38.0,1,0.33,117.6,9.4,census_comprehensive
+08121,Area 121,Camden,Area 121 (Camden),65000,15000,1800,0.12,38.0,6,2.0,117.6,9.4,census_comprehensive
+08122,Area 122,Camden,Area 122 (Camden),65000,15000,1800,0.12,38.0,4,1.33,117.6,9.4,census_comprehensive
+08124,Area 124,Camden,Area 124 (Camden),65000,15000,1800,0.12,38.0,9,3.0,117.6,9.4,census_comprehensive
+08125,Area 125,Camden,Area 125 (Camden),65000,15000,1800,0.12,38.0,4,1.33,117.6,9.4,census_comprehensive
+08126,Area 126,Camden,Area 126 (Camden),65000,15000,1800,0.12,38.0,8,2.67,117.6,9.4,census_comprehensive
+08127,Area 127,Camden,Area 127 (Camden),65000,15000,1800,0.12,38.0,2,0.67,117.6,9.4,census_comprehensive
+08130,Area 130,Camden,Area 130 (Camden),65000,15000,1800,0.12,38.0,6,2.0,117.6,9.4,census_comprehensive
+08131,Area 131,Camden,Area 131 (Camden),65000,15000,1800,0.12,38.0,11,3.67,117.6,9.4,census_comprehensive
+08133,Area 133,Camden,Area 133 (Camden),65000,15000,1800,0.12,38.0,1,0.33,117.6,9.4,census_comprehensive
+08134,Area 134,Camden,Area 134 (Camden),65000,15000,1800,0.12,38.0,12,4.0,117.6,9.4,census_comprehensive
+08135,Area 135,Camden,Area 135 (Camden),65000,15000,1800,0.12,38.0,6,2.0,117.6,9.4,census_comprehensive
+08140,Area 140,Camden,Area 140 (Camden),65000,15000,1800,0.12,38.0,2,0.67,117.6,9.4,census_comprehensive
+08143,Area 143,Camden,Area 143 (Camden),65000,15000,1800,0.12,38.0,4,1.33,117.6,9.4,census_comprehensive
+08144,Area 144,Camden,Area 144 (Camden),65000,15000,1800,0.12,38.0,8,2.67,117.6,9.4,census_comprehensive
+08145,Area 145,Camden,Area 145 (Camden),65000,15000,1800,0.12,38.0,10,3.33,117.6,9.4,census_comprehensive
+08149,Area 149,Camden,Area 149 (Camden),65000,15000,1800,0.12,38.0,4,1.33,117.6,9.4,census_comprehensive
+08152,Area 152,Camden,Area 152 (Camden),65000,15000,1800,0.12,38.0,3,1.0,117.6,9.4,census_comprehensive
+08153,Area 153,Camden,Area 153 (Camden),65000,15000,1800,0.12,38.0,4,1.33,117.6,9.4,census_comprehensive
+08156,Area 156,Camden,Area 156 (Camden),65000,15000,1800,0.12,38.0,4,1.33,117.6,9.4,census_comprehensive
+08159,Area 159,Camden,Area 159 (Camden),65000,15000,1800,0.12,38.0,8,2.67,117.6,9.4,census_comprehensive
+08161,Area 161,Camden,Area 161 (Camden),65000,15000,1800,0.12,38.0,8,2.67,117.6,9.4,census_comprehensive
+08162,Area 162,Camden,Area 162 (Camden),65000,15000,1800,0.12,38.0,1,0.33,117.6,9.4,census_comprehensive
+08204,Cape May,Cape May,Cape May (Cape May),80782,16890,1305,0.077,52.2,8,2.37,121.2,7.8,census_comprehensive
+08210,Cape May Court House,Cape May,Cape May Court House (Cape May),93855,17278,1599,0.093,43.5,3,0.87,121.2,6.7,census_comprehensive
+08212,Cape May Point,Cape May,Cape May Point (Cape May),88333,155,19,0.123,70.9,5,161.29,121.2,7.1,census_comprehensive
+08215,Egg Harbor City,Cape May,Egg Harbor City (Cape May),84630,13921,821,0.059,45.1,7,2.51,121.2,7.4,census_comprehensive
+08220,Leeds Point,Cape May,Leeds Point (Cape May),65000,15000,1800,0.12,38.0,12,4.0,121.2,9.7,census_comprehensive
+08223,Marmora,Cape May,Marmora (Cape May),100000,4063,115,0.028,46.2,5,6.15,121.2,6.3,census_comprehensive
+08224,New Gretna,Cape May,New Gretna (Cape May),99583,158,0,0.0,35.8,8,253.16,121.2,6.3,census_comprehensive
+08226,Ocean City,Cape May,Ocean City (Cape May),101782,11260,887,0.079,57.3,4,1.78,121.2,6.2,census_comprehensive
+08230,Ocean View,Cape May,Ocean View (Cape May),110667,5998,126,0.021,45.2,11,9.17,121.2,5.7,census_comprehensive
+08232,Pleasantville,Cape May,Pleasantville (Cape May),52476,20200,4609,0.228,35.6,6,1.49,121.2,12.0,census_comprehensive
+08240,Pomona,Cape May,Pomona (Cape May),65000,2812,0,0.0,20.4,5,8.89,121.2,9.7,census_comprehensive
+08241,Port Republic,Cape May,Port Republic (Cape May),130417,1047,18,0.017,48.5,6,28.65,121.2,4.8,census_comprehensive
+08242,Rio Grande,Cape May,Rio Grande (Cape May),97831,4021,355,0.088,51.4,1,1.24,121.2,6.4,census_comprehensive
+08243,Sea Isle City,Cape May,Sea Isle City (Cape May),98860,2079,98,0.047,65.2,12,28.86,121.2,6.4,census_comprehensive
+08244,Somers Point,Cape May,Somers Point (Cape May),67500,10611,1174,0.111,43.9,12,5.65,121.2,9.3,census_comprehensive
+08246,South Seaville,Cape May,South Seaville (Cape May),65000,53,0,0.0,-666666666.0,6,566.04,121.2,9.7,census_comprehensive
+08247,Stone Harbor,Cape May,Stone Harbor (Cape May),133929,936,43,0.046,66.0,7,37.39,121.2,4.7,census_comprehensive
+08248,Strathmere,Cape May,Strathmere (Cape May),106840,134,0,0.0,53.9,6,223.88,121.2,5.9,census_comprehensive
+08250,Tuckahoe,Cape May,Tuckahoe (Cape May),65000,15000,1800,0.12,38.0,7,2.33,121.2,9.7,census_comprehensive
+08251,Villas,Cape May,Villas (Cape May),76433,10360,1273,0.123,45.6,4,1.93,121.2,8.2,census_comprehensive
+08260,Wildwood,Cape May,Wildwood (Cape May),71549,12913,1572,0.122,59.1,10,3.87,121.2,8.8,census_comprehensive
+08270,Woodbine,Cape May,Woodbine (Cape May),95033,8239,806,0.098,40.4,10,6.07,121.2,6.6,census_comprehensive
+08302,Bridgeton,Cumberland,Bridgeton (Cumberland),60301,47003,9819,0.209,32.4,9,0.96,112.8,9.7,census_comprehensive
+08310,Buena,Cumberland,Buena (Cumberland),46188,1236,131,0.106,67.1,8,32.36,112.8,12.7,census_comprehensive
+08311,Cedarville,Cumberland,Cedarville (Cumberland),74352,1656,270,0.163,44.1,7,21.14,112.8,7.9,census_comprehensive
+08312,Clayton,Cumberland,Clayton (Cumberland),88448,8395,622,0.074,40.9,6,3.57,112.8,6.6,census_comprehensive
+08314,Delmont,Cumberland,Delmont (Cumberland),65000,503,59,0.117,51.5,6,59.64,112.8,9.0,census_comprehensive
+08318,Elmer,Cumberland,Elmer (Cumberland),87551,12149,1170,0.096,41.2,7,2.88,112.8,6.7,census_comprehensive
+08320,Fairton,Cumberland,Fairton (Cumberland),65000,1065,0,0.0,41.2,9,42.25,112.8,9.0,census_comprehensive
+08321,Fortescue,Cumberland,Fortescue (Cumberland),52500,153,0,0.0,61.9,4,130.72,112.8,11.2,census_comprehensive
+08322,Franklinville,Cumberland,Franklinville (Cumberland),117602,10391,855,0.082,39.1,5,2.41,112.8,5.0,census_comprehensive
+08324,Heislerville,Cumberland,Heislerville (Cumberland),86538,216,0,0.0,30.4,5,115.74,112.8,6.8,census_comprehensive
+08326,Landisville,Cumberland,Landisville (Cumberland),74891,1430,103,0.072,33.9,7,24.48,112.8,7.8,census_comprehensive
+08327,Leesburg,Cumberland,Leesburg (Cumberland),60556,3505,34,0.01,40.5,10,14.27,112.8,9.7,census_comprehensive
+08328,Malaga,Cumberland,Malaga (Cumberland),108750,1554,126,0.081,36.8,10,32.18,112.8,5.4,census_comprehensive
+08330,Mays Landing,Cumberland,Mays Landing (Cumberland),82981,30009,2381,0.079,41.5,9,1.5,112.8,7.1,census_comprehensive
+08332,Millville,Cumberland,Millville (Cumberland),65825,35214,4542,0.129,41.8,9,1.28,112.8,8.9,census_comprehensive
+08340,Milmay,Cumberland,Milmay (Cumberland),72813,876,8,0.009,48.5,9,51.37,112.8,8.0,census_comprehensive
+08341,Minotola,Cumberland,Minotola (Cumberland),68462,2002,147,0.073,33.8,5,12.49,112.8,8.6,census_comprehensive
+08343,Monroeville,Cumberland,Monroeville (Cumberland),143561,4438,147,0.033,46.1,12,13.52,112.8,4.1,census_comprehensive
+08344,Newfield,Cumberland,Newfield (Cumberland),73340,5296,196,0.037,42.3,7,6.61,112.8,8.0,census_comprehensive
+08345,Newport,Cumberland,Newport (Cumberland),64076,801,128,0.16,61.0,3,18.73,112.8,9.1,census_comprehensive
+08346,Newtonville,Cumberland,Newtonville (Cumberland),79464,444,0,0.0,35.9,4,45.05,112.8,7.4,census_comprehensive
+08348,Port Elizabeth,Cumberland,Port Elizabeth (Cumberland),65000,191,0,0.0,62.1,3,78.53,112.8,9.0,census_comprehensive
+08349,Port Norris,Cumberland,Port Norris (Cumberland),55893,2400,277,0.115,37.8,7,14.58,112.8,10.5,census_comprehensive
+08350,Richland,Cumberland,Richland (Cumberland),152525,859,32,0.037,55.0,11,64.03,112.8,3.8,census_comprehensive
+08360,Vineland,Cumberland,Vineland (Cumberland),62604,44276,7054,0.159,37.5,10,1.13,112.8,9.4,census_comprehensive
+08401,Atlantic City,Atlantic,Atlantic City (Atlantic),36375,38744,12796,0.33,37.6,5,0.65,118.8,17.0,census_comprehensive
+08402,Margate City,Atlantic,Margate City (Atlantic),114417,5260,325,0.062,57.9,4,3.8,118.8,5.4,census_comprehensive
+08403,Longport,Atlantic,Longport (Atlantic),103295,1012,61,0.06,68.3,1,4.94,118.8,6.0,census_comprehensive
+08404,Atlantic City,Atlantic,Atlantic City (Atlantic),65000,15000,1800,0.12,38.0,2,0.67,118.8,9.5,census_comprehensive
+08405,Atlantic City,Atlantic,Atlantic City (Atlantic),65000,15000,1800,0.12,38.0,10,3.33,118.8,9.5,census_comprehensive
+08406,Ventnor City,Atlantic,Ventnor City (Atlantic),75034,8962,951,0.106,56.8,5,2.79,118.8,8.2,census_comprehensive
+08407,Area 407,Atlantic,Area 407 (Atlantic),65000,15000,1800,0.12,38.0,7,2.33,118.8,9.5,census_comprehensive
+08408,Area 408,Atlantic,Area 408 (Atlantic),65000,15000,1800,0.12,38.0,3,1.0,118.8,9.5,census_comprehensive
+08409,Area 409,Atlantic,Area 409 (Atlantic),65000,15000,1800,0.12,38.0,2,0.67,118.8,9.5,census_comprehensive
+08410,Area 410,Atlantic,Area 410 (Atlantic),65000,15000,1800,0.12,38.0,10,3.33,118.8,9.5,census_comprehensive
+08411,Atlantic City,Atlantic,Atlantic City (Atlantic),65000,15000,1800,0.12,38.0,2,0.67,118.8,9.5,census_comprehensive
+08412,Area 412,Atlantic,Area 412 (Atlantic),65000,15000,1800,0.12,38.0,3,1.0,118.8,9.5,census_comprehensive
+08413,Area 413,Atlantic,Area 413 (Atlantic),65000,15000,1800,0.12,38.0,5,1.67,118.8,9.5,census_comprehensive
+08414,Area 414,Atlantic,Area 414 (Atlantic),65000,15000,1800,0.12,38.0,10,3.33,118.8,9.5,census_comprehensive
+08415,Area 415,Atlantic,Area 415 (Atlantic),65000,15000,1800,0.12,38.0,6,2.0,118.8,9.5,census_comprehensive
+08416,Area 416,Atlantic,Area 416 (Atlantic),65000,15000,1800,0.12,38.0,4,1.33,118.8,9.5,census_comprehensive
+08417,Area 417,Atlantic,Area 417 (Atlantic),65000,15000,1800,0.12,38.0,8,2.67,118.8,9.5,census_comprehensive
+08418,Area 418,Atlantic,Area 418 (Atlantic),65000,15000,1800,0.12,38.0,3,1.0,118.8,9.5,census_comprehensive
+08419,Area 419,Atlantic,Area 419 (Atlantic),65000,15000,1800,0.12,38.0,1,0.33,118.8,9.5,census_comprehensive
+08420,Area 420,Atlantic,Area 420 (Atlantic),65000,15000,1800,0.12,38.0,12,4.0,118.8,9.5,census_comprehensive
+08421,Area 421,Atlantic,Area 421 (Atlantic),65000,15000,1800,0.12,38.0,7,2.33,118.8,9.5,census_comprehensive
+08422,Area 422,Atlantic,Area 422 (Atlantic),65000,15000,1800,0.12,38.0,1,0.33,118.8,9.5,census_comprehensive
+08423,Area 423,Atlantic,Area 423 (Atlantic),65000,15000,1800,0.12,38.0,11,3.67,118.8,9.5,census_comprehensive
+08424,Area 424,Atlantic,Area 424 (Atlantic),65000,15000,1800,0.12,38.0,4,1.33,118.8,9.5,census_comprehensive
+08425,Area 425,Atlantic,Area 425 (Atlantic),65000,15000,1800,0.12,38.0,2,0.67,118.8,9.5,census_comprehensive
+08430,Area 430,Atlantic,Area 430 (Atlantic),65000,15000,1800,0.12,38.0,1,0.33,118.8,9.5,census_comprehensive
+08434,Area 434,Atlantic,Area 434 (Atlantic),65000,15000,1800,0.12,38.0,8,2.67,118.8,9.5,census_comprehensive
+08437,Area 437,Atlantic,Area 437 (Atlantic),65000,15000,1800,0.12,38.0,4,1.33,118.8,9.5,census_comprehensive
+08441,Area 441,Atlantic,Area 441 (Atlantic),65000,15000,1800,0.12,38.0,2,0.67,118.8,9.5,census_comprehensive
+08450,Area 450,Atlantic,Area 450 (Atlantic),65000,15000,1800,0.12,38.0,4,1.33,118.8,9.5,census_comprehensive
+08460,Area 460,Atlantic,Area 460 (Atlantic),65000,15000,1800,0.12,38.0,11,3.67,118.8,9.5,census_comprehensive
+08470,Area 470,Atlantic,Area 470 (Atlantic),65000,15000,1800,0.12,38.0,7,2.33,118.8,9.5,census_comprehensive
+08480,Area 480,Atlantic,Area 480 (Atlantic),65000,15000,1800,0.12,38.0,2,0.67,118.8,9.5,census_comprehensive
+08490,Area 490,Atlantic,Area 490 (Atlantic),65000,15000,1800,0.12,38.0,12,4.0,118.8,9.5,census_comprehensive
+08540,Princeton,Mercer,Princeton (Mercer),169898,49499,3787,0.077,40.1,9,0.91,128.4,3.9,census_comprehensive
+08544,Princeton,Mercer,Princeton (Mercer),65000,4548,44,0.01,20.4,1,1.1,128.4,10.3,census_comprehensive
+08550,Princeton Junction,Mercer,Princeton Junction (Mercer),206658,20876,528,0.025,45.1,2,0.48,128.4,3.2,census_comprehensive
+08551,Ringoes,Hunterdon,Ringoes (Hunterdon),154966,5950,49,0.008,49.1,2,1.68,133.2,4.5,census_comprehensive
+08552,Area 552,Hunterdon,Area 552 (Hunterdon),65000,15000,1800,0.12,38.0,10,3.33,133.2,10.6,census_comprehensive
+08553,Rocky Hill,Hunterdon,Rocky Hill (Hunterdon),127344,814,35,0.043,42.8,3,18.43,133.2,5.4,census_comprehensive
+08554,Roebling,Hunterdon,Roebling (Hunterdon),84458,3661,258,0.07,38.5,6,8.19,133.2,8.2,census_comprehensive
+08555,Roosevelt,Hunterdon,Roosevelt (Hunterdon),112614,1059,8,0.008,38.8,7,33.05,133.2,6.1,census_comprehensive
+08556,Rosemont,Hunterdon,Rosemont (Hunterdon),65000,15000,1800,0.12,38.0,6,2.0,133.2,10.6,census_comprehensive
+08557,Sergeantsville,Hunterdon,Sergeantsville (Hunterdon),65000,15000,1800,0.12,38.0,5,1.67,133.2,10.6,census_comprehensive
+08558,Skillman,Mercer,Skillman (Mercer),240968,7236,165,0.023,47.9,4,2.76,128.4,2.8,census_comprehensive
+08559,Stockton,Hunterdon,Stockton (Hunterdon),157194,4608,138,0.03,57.8,10,10.85,133.2,4.4,census_comprehensive
+08560,Titusville,Mercer,Titusville (Mercer),126726,3334,216,0.065,53.4,7,10.5,128.4,5.3,census_comprehensive
+08561,Windsor,Mercer,Windsor (Mercer),65000,381,0,0.0,64.1,11,144.36,128.4,10.3,census_comprehensive
+08562,Wrightstown,Mercer,Wrightstown (Mercer),89766,4301,636,0.148,38.6,2,2.33,128.4,7.4,census_comprehensive
+08570,Cranbury,Mercer,Cranbury (Mercer),65000,15000,1800,0.12,38.0,4,1.33,128.4,10.3,census_comprehensive
+08571,Area 571,Mercer,Area 571 (Mercer),65000,15000,1800,0.12,38.0,6,2.0,128.4,10.3,census_comprehensive
+08608,Trenton,Mercer,Trenton (Mercer),65000,1118,242,0.216,31.4,2,8.94,128.4,10.3,census_comprehensive
+08609,Trenton,Mercer,Trenton (Mercer),56932,13000,2768,0.213,35.6,5,1.92,128.4,11.7,census_comprehensive
+08610,Trenton,Mercer,Trenton (Mercer),87159,33387,2925,0.088,38.0,9,1.35,128.4,7.7,census_comprehensive
+08611,Trenton,Mercer,Trenton (Mercer),50806,32786,7875,0.24,34.8,11,1.68,128.4,13.1,census_comprehensive
+08618,Trenton,Mercer,Trenton (Mercer),48179,37162,7517,0.202,33.7,3,0.4,128.4,13.8,census_comprehensive
+08619,Trenton,Mercer,Trenton (Mercer),104922,23512,1268,0.054,41.0,6,1.28,128.4,6.4,census_comprehensive
+08620,Trenton,Mercer,Trenton (Mercer),108732,11949,1159,0.097,43.9,4,1.67,128.4,6.1,census_comprehensive
+08628,Trenton,Mercer,Trenton (Mercer),101075,9479,741,0.078,45.0,6,3.16,128.4,6.6,census_comprehensive
+08629,Trenton,Mercer,Trenton (Mercer),81367,13015,1131,0.087,35.2,7,2.69,128.4,8.2,census_comprehensive
+08701,Lakewood,Ocean,Lakewood (Ocean),62811,136784,33277,0.243,18.2,3,0.11,122.4,10.1,census_comprehensive
+08720,Allenwood,Monmouth,Allenwood (Monmouth),218173,774,38,0.049,48.4,6,38.76,130.8,3.1,census_comprehensive
+08721,Bayville,Ocean,Bayville (Ocean),104361,22464,1729,0.077,42.4,12,2.67,122.4,6.1,census_comprehensive
+08722,Beachwood,Ocean,Beachwood (Ocean),102043,11002,558,0.051,42.1,3,1.36,122.4,6.2,census_comprehensive
+08723,Brick,Ocean,Brick (Ocean),103953,32033,1818,0.057,44.4,4,0.62,122.4,6.1,census_comprehensive
+08724,Brick,Ocean,Brick (Ocean),98771,41573,1988,0.048,45.4,4,0.48,122.4,6.4,census_comprehensive
+08730,Brielle,Monmouth,Brielle (Monmouth),167754,4960,67,0.014,45.9,8,8.06,130.8,4.1,census_comprehensive
+08731,Forked River,Ocean,Forked River (Ocean),93267,21136,1077,0.051,47.5,10,2.37,122.4,6.8,census_comprehensive
+08732,Island Heights,Ocean,Island Heights (Ocean),107837,1552,12,0.008,53.9,3,9.66,122.4,5.9,census_comprehensive
+08733,Lakehurst,Ocean,Lakehurst (Ocean),80792,2864,269,0.094,36.2,8,13.97,122.4,7.9,census_comprehensive
+08734,Lanoka Harbor,Ocean,Lanoka Harbor (Ocean),121033,8028,115,0.014,42.5,2,1.25,122.4,5.3,census_comprehensive
+08735,Lavallette,Ocean,Lavallette (Ocean),85265,3435,120,0.035,62.8,4,5.82,122.4,7.5,census_comprehensive
+08736,Manasquan,Monmouth,Manasquan (Monmouth),170042,13056,371,0.028,46.8,4,1.53,130.8,4.0,census_comprehensive
+08738,Mantoloking,Ocean,Mantoloking (Ocean),218667,1371,20,0.015,58.5,3,10.94,122.4,2.9,census_comprehensive
+08739,Normandy Beach,Ocean,Normandy Beach (Ocean),65000,15000,1800,0.12,38.0,10,3.33,122.4,9.8,census_comprehensive
+08740,Ocean Gate,Ocean,Ocean Gate (Ocean),75278,1768,66,0.037,46.8,6,16.97,122.4,8.4,census_comprehensive
+08741,Pine Beach,Ocean,Pine Beach (Ocean),140034,2769,84,0.03,53.0,5,9.03,122.4,4.5,census_comprehensive
+08742,Point Pleasant Beach,Ocean,Point Pleasant Beach (Ocean),111983,25558,1316,0.051,45.8,10,1.96,122.4,5.7,census_comprehensive
+08750,Sea Girt,Monmouth,Sea Girt (Monmouth),150357,3624,98,0.027,57.0,12,16.56,130.8,4.5,census_comprehensive
+08751,Seaside Heights,Ocean,Seaside Heights (Ocean),75000,3625,765,0.211,57.9,8,11.03,122.4,8.5,census_comprehensive
+08752,Seaside Park,Ocean,Seaside Park (Ocean),75865,2254,235,0.104,63.5,7,15.53,122.4,8.4,census_comprehensive
+08753,Toms River,Ocean,Toms River (Ocean),101648,64788,3904,0.06,42.0,3,0.23,122.4,6.3,census_comprehensive
+08757,Toms River,Ocean,Toms River (Ocean),56133,35652,3249,0.091,62.8,7,0.98,122.4,11.3,census_comprehensive
+08758,Waretown,Ocean,Waretown (Ocean),103877,8010,575,0.072,50.5,8,4.99,122.4,6.1,census_comprehensive
+08759,Whiting,Ocean,Whiting (Ocean),55000,34290,2751,0.08,68.1,2,0.29,122.4,11.6,census_comprehensive
+08801,Annandale,Middlesex,Annandale (Middlesex),144060,7391,226,0.031,44.4,12,8.12,129.6,4.7,census_comprehensive
+08802,Asbury,Middlesex,Asbury (Middlesex),131012,4604,86,0.019,48.5,1,1.09,129.6,5.1,census_comprehensive
+08803,Baptistown,Middlesex,Baptistown (Middlesex),65000,15000,1800,0.12,38.0,10,3.33,129.6,10.4,census_comprehensive
+08804,Bloomsbury,Middlesex,Bloomsbury (Middlesex),106250,3066,262,0.085,46.0,10,16.31,129.6,6.3,census_comprehensive
+08805,Bound Brook,Middlesex,Bound Brook (Middlesex),84201,14153,1276,0.09,36.9,4,1.41,129.6,8.0,census_comprehensive
+08806,Area 806,Middlesex,Area 806 (Middlesex),65000,15000,1800,0.12,38.0,12,4.0,129.6,10.4,census_comprehensive
+08807,Bridgewater,Middlesex,Bridgewater (Middlesex),165983,38438,1545,0.04,43.1,2,0.26,129.6,4.1,census_comprehensive
+08808,Broadway,Middlesex,Broadway (Middlesex),65000,15000,1800,0.12,38.0,6,2.0,129.6,10.4,census_comprehensive
+08809,Clinton,Middlesex,Clinton (Middlesex),127169,6838,350,0.051,38.6,9,6.58,129.6,5.3,census_comprehensive
+08810,Dayton,Middlesex,Dayton (Middlesex),141308,8241,178,0.022,40.4,10,6.07,129.6,4.8,census_comprehensive
+08811,Area 811,Middlesex,Area 811 (Middlesex),65000,15000,1800,0.12,38.0,7,2.33,129.6,10.4,census_comprehensive
+08812,Dunellen,Middlesex,Dunellen (Middlesex),119534,14177,2155,0.152,42.4,12,4.23,129.6,5.6,census_comprehensive
+08813,Area 813,Middlesex,Area 813 (Middlesex),65000,15000,1800,0.12,38.0,2,0.67,129.6,10.4,census_comprehensive
+08814,Area 814,Middlesex,Area 814 (Middlesex),65000,15000,1800,0.12,38.0,1,0.33,129.6,10.4,census_comprehensive
+08815,Area 815,Middlesex,Area 815 (Middlesex),65000,15000,1800,0.12,38.0,10,3.33,129.6,10.4,census_comprehensive
+08816,East Brunswick,Middlesex,East Brunswick (Middlesex),141731,48965,2267,0.046,41.6,10,1.02,129.6,4.8,census_comprehensive
+08817,Edison,Middlesex,Edison (Middlesex),109734,47924,3373,0.07,38.1,4,0.42,129.6,6.1,census_comprehensive
+08818,Edison,Middlesex,Edison (Middlesex),65000,15000,1800,0.12,38.0,8,2.67,129.6,10.4,census_comprehensive
+08820,Edison,Middlesex,Edison (Middlesex),168453,39392,1375,0.035,42.6,4,0.51,129.6,4.0,census_comprehensive
+08821,Flagtown,Middlesex,Flagtown (Middlesex),122857,375,0,0.0,40.6,3,40.0,129.6,5.5,census_comprehensive
+08822,Flemington,Middlesex,Flemington (Middlesex),137698,32002,1322,0.041,42.7,9,1.41,129.6,4.9,census_comprehensive
+08823,Franklin Park,Middlesex,Franklin Park (Middlesex),109182,8873,632,0.071,39.8,11,6.2,129.6,6.2,census_comprehensive
+08824,Kendall Park,Middlesex,Kendall Park (Middlesex),180888,13866,342,0.025,46.1,4,1.44,129.6,3.7,census_comprehensive
+08825,Frenchtown,Somerset,Frenchtown (Somerset),104750,4639,228,0.049,47.3,7,7.54,132.0,6.5,census_comprehensive
+08826,Glen Gardner,Middlesex,Glen Gardner (Middlesex),119576,5255,333,0.063,47.4,6,5.71,129.6,5.6,census_comprehensive
+08827,Hampton,Middlesex,Hampton (Middlesex),128589,4139,231,0.056,44.8,12,14.5,129.6,5.2,census_comprehensive
+08828,Helmetta,Middlesex,Helmetta (Middlesex),104143,2317,67,0.029,39.5,4,8.63,129.6,6.5,census_comprehensive
+08829,High Bridge,Somerset,High Bridge (Somerset),116424,3584,136,0.038,38.4,9,12.56,132.0,5.9,census_comprehensive
+08830,Iselin,Middlesex,Iselin (Middlesex),112615,19151,1223,0.064,38.4,9,2.35,129.6,6.0,census_comprehensive
+08831,Jamesburg,Middlesex,Jamesburg (Middlesex),108741,54608,2195,0.04,54.9,10,0.92,129.6,6.2,census_comprehensive
+08832,Keasbey,Middlesex,Keasbey (Middlesex),65948,2793,677,0.242,29.0,1,1.79,129.6,10.2,census_comprehensive
+08833,Lebanon,Middlesex,Lebanon (Middlesex),163500,8772,177,0.02,50.2,7,3.99,129.6,4.1,census_comprehensive
+08834,Little York,Middlesex,Little York (Middlesex),65000,15000,1800,0.12,38.0,10,3.33,129.6,10.4,census_comprehensive
+08835,Manville,Middlesex,Manville (Middlesex),93872,10870,1335,0.123,42.4,8,3.68,129.6,7.2,census_comprehensive
+08836,Martinsville,Middlesex,Martinsville (Middlesex),237935,4326,52,0.012,38.5,6,6.93,129.6,2.8,census_comprehensive
+08837,Edison,Middlesex,Edison (Middlesex),107948,19954,929,0.047,36.0,10,2.51,129.6,6.2,census_comprehensive
+08839,Area 839,Middlesex,Area 839 (Middlesex),65000,15000,1800,0.12,38.0,5,1.67,129.6,10.4,census_comprehensive
+08840,Metuchen,Middlesex,Metuchen (Middlesex),150938,17934,834,0.047,39.4,7,1.95,129.6,4.5,census_comprehensive
+08841,Area 841,Middlesex,Area 841 (Middlesex),65000,15000,1800,0.12,38.0,12,4.0,129.6,10.4,census_comprehensive
+08842,Area 842,Middlesex,Area 842 (Middlesex),65000,15000,1800,0.12,38.0,7,2.33,129.6,10.4,census_comprehensive
+08843,Area 843,Middlesex,Area 843 (Middlesex),65000,15000,1800,0.12,38.0,10,3.33,129.6,10.4,census_comprehensive
+08844,Hillsborough,Middlesex,Hillsborough (Middlesex),153785,43708,1234,0.028,42.1,3,0.34,129.6,4.4,census_comprehensive
+08845,Area 845,Middlesex,Area 845 (Middlesex),65000,15000,1800,0.12,38.0,3,1.0,129.6,10.4,census_comprehensive
+08846,Middlesex,Middlesex,Middlesex (Middlesex),107063,14518,1155,0.08,44.3,4,1.38,129.6,6.3,census_comprehensive
+08847,Area 847,Middlesex,Area 847 (Middlesex),65000,15000,1800,0.12,38.0,3,1.0,129.6,10.4,census_comprehensive
+08850,Milltown,Middlesex,Milltown (Middlesex),127331,8442,122,0.014,42.1,8,4.74,129.6,5.3,census_comprehensive
+08851,Area 851,Middlesex,Area 851 (Middlesex),65000,15000,1800,0.12,38.0,9,3.0,129.6,10.4,census_comprehensive
+08852,Monmouth Junction,Middlesex,Monmouth Junction (Middlesex),121771,17333,1034,0.06,40.5,9,2.6,129.6,5.5,census_comprehensive
+08853,Neshanic Station,Somerset,Neshanic Station (Somerset),213074,5415,11,0.002,48.1,5,4.62,132.0,3.2,census_comprehensive
+08854,Piscataway,Middlesex,Piscataway (Middlesex),126331,60405,2766,0.046,33.6,1,0.08,129.6,5.3,census_comprehensive
+08855,Piscataway,Middlesex,Piscataway (Middlesex),65000,15000,1800,0.12,38.0,1,0.33,129.6,10.4,census_comprehensive
+08857,Old Bridge,Middlesex,Old Bridge (Middlesex),101192,40409,3162,0.078,42.9,10,1.24,129.6,6.7,census_comprehensive
+08858,Oldwick,Middlesex,Oldwick (Middlesex),65000,0,0,0.12,-666666666.0,11,0,129.6,10.4,census_comprehensive
+08859,Parlin,Middlesex,Parlin (Middlesex),96593,24284,1471,0.061,38.7,9,1.85,129.6,7.0,census_comprehensive
+08860,Area 860,Middlesex,Area 860 (Middlesex),65000,15000,1800,0.12,38.0,1,0.33,129.6,10.4,census_comprehensive
+08862,Perth Amboy,Middlesex,Perth Amboy (Middlesex),65000,15000,1800,0.12,38.0,1,0.33,129.6,10.4,census_comprehensive
+08863,Fords,Middlesex,Fords (Middlesex),116250,13052,665,0.051,39.5,4,1.53,129.6,5.8,census_comprehensive
+08864,Area 864,Middlesex,Area 864 (Middlesex),65000,15000,1800,0.12,38.0,3,1.0,129.6,10.4,census_comprehensive
+08865,Phillipsburg,Middlesex,Phillipsburg (Middlesex),78519,31078,3980,0.128,43.2,2,0.32,129.6,8.6,census_comprehensive
+08866,Area 866,Middlesex,Area 866 (Middlesex),65000,15000,1800,0.12,38.0,9,3.0,129.6,10.4,census_comprehensive
+08868,Quakertown,Middlesex,Quakertown (Middlesex),65000,15000,1800,0.12,38.0,3,1.0,129.6,10.4,census_comprehensive
+08869,Raritan,Middlesex,Raritan (Middlesex),103699,8192,571,0.07,43.1,3,1.83,129.6,6.5,census_comprehensive
+08873,Somerset,Somerset,Somerset (Somerset),117866,55862,3544,0.063,40.3,5,0.45,132.0,5.8,census_comprehensive
+08875,Somerset,Somerset,Somerset (Somerset),65000,15000,1800,0.12,38.0,5,1.67,132.0,10.6,census_comprehensive
+08876,Somerville,Somerset,Somerville (Somerset),120823,22902,1270,0.055,39.7,6,1.31,132.0,5.7,census_comprehensive
+08880,South Bound Brook,Somerset,South Bound Brook (Somerset),102019,4833,794,0.164,35.4,5,5.17,132.0,6.7,census_comprehensive
+08882,South River,Somerset,South River (Somerset),101853,16007,1803,0.113,36.5,3,0.94,132.0,6.7,census_comprehensive
+08887,Three Bridges,Somerset,Three Bridges (Somerset),104091,1377,84,0.061,40.3,3,10.89,132.0,6.6,census_comprehensive
+08888,Whitehouse,Hunterdon,Whitehouse (Hunterdon),65000,15000,1800,0.12,38.0,2,0.67,133.2,10.6,census_comprehensive
+08889,Whitehouse Station,Somerset,Whitehouse Station (Somerset),147048,10539,409,0.039,52.1,1,0.47,132.0,4.7,census_comprehensive
+08896,Raritan,Somerset,Raritan (Somerset),65000,15000,1800,0.12,38.0,12,4.0,132.0,10.6,census_comprehensive
+08899,Edison,Somerset,Edison (Somerset),65000,15000,1800,0.12,38.0,9,3.0,132.0,10.6,census_comprehensive
+08901,New Brunswick,Middlesex,New Brunswick (Middlesex),60248,56766,15130,0.267,24.1,2,0.18,129.6,11.2,census_comprehensive
+08902,North Brunswick,Middlesex,North Brunswick (Middlesex),117671,43146,3220,0.075,38.4,1,0.12,129.6,5.7,census_comprehensive
+08903,New Brunswick,Middlesex,New Brunswick (Middlesex),65000,15000,1800,0.12,38.0,11,3.67,129.6,10.4,census_comprehensive
+08904,Highland Park,Middlesex,Highland Park (Middlesex),101991,14981,1381,0.092,34.6,6,2.0,129.6,6.6,census_comprehensive
+08905,New Brunswick,Middlesex,New Brunswick (Middlesex),65000,15000,1800,0.12,38.0,1,0.33,129.6,10.4,census_comprehensive
+08906,New Brunswick,Middlesex,New Brunswick (Middlesex),65000,15000,1800,0.12,38.0,2,0.67,129.6,10.4,census_comprehensive
+08907,Area 907,Middlesex,Area 907 (Middlesex),65000,15000,1800,0.12,38.0,8,2.67,129.6,10.4,census_comprehensive
+08908,Area 908,Middlesex,Area 908 (Middlesex),65000,15000,1800,0.12,38.0,8,2.67,129.6,10.4,census_comprehensive
+08909,Area 909,Middlesex,Area 909 (Middlesex),65000,15000,1800,0.12,38.0,12,4.0,129.6,10.4,census_comprehensive
+08910,Area 910,Middlesex,Area 910 (Middlesex),65000,15000,1800,0.12,38.0,2,0.67,129.6,10.4,census_comprehensive
+08911,Area 911,Middlesex,Area 911 (Middlesex),65000,15000,1800,0.12,38.0,8,2.67,129.6,10.4,census_comprehensive
+08912,Area 912,Middlesex,Area 912 (Middlesex),65000,15000,1800,0.12,38.0,11,3.67,129.6,10.4,census_comprehensive
+08913,Area 913,Middlesex,Area 913 (Middlesex),65000,15000,1800,0.12,38.0,2,0.67,129.6,10.4,census_comprehensive
+08914,Area 914,Middlesex,Area 914 (Middlesex),65000,15000,1800,0.12,38.0,7,2.33,129.6,10.4,census_comprehensive
+08915,Area 915,Middlesex,Area 915 (Middlesex),65000,15000,1800,0.12,38.0,2,0.67,129.6,10.4,census_comprehensive
+08916,Area 916,Middlesex,Area 916 (Middlesex),65000,15000,1800,0.12,38.0,7,2.33,129.6,10.4,census_comprehensive
+08917,Area 917,Middlesex,Area 917 (Middlesex),65000,15000,1800,0.12,38.0,7,2.33,129.6,10.4,census_comprehensive
+08918,Area 918,Middlesex,Area 918 (Middlesex),65000,15000,1800,0.12,38.0,12,4.0,129.6,10.4,census_comprehensive
+08920,Area 920,Middlesex,Area 920 (Middlesex),65000,15000,1800,0.12,38.0,8,2.67,129.6,10.4,census_comprehensive
+08921,Area 921,Middlesex,Area 921 (Middlesex),65000,15000,1800,0.12,38.0,11,3.67,129.6,10.4,census_comprehensive
+08922,New Brunswick,Middlesex,New Brunswick (Middlesex),65000,15000,1800,0.12,38.0,9,3.0,129.6,10.4,census_comprehensive
+08923,Area 923,Middlesex,Area 923 (Middlesex),65000,15000,1800,0.12,38.0,4,1.33,129.6,10.4,census_comprehensive
+08924,Area 924,Middlesex,Area 924 (Middlesex),65000,15000,1800,0.12,38.0,8,2.67,129.6,10.4,census_comprehensive
+08926,Area 926,Middlesex,Area 926 (Middlesex),65000,15000,1800,0.12,38.0,7,2.33,129.6,10.4,census_comprehensive
+08927,Area 927,Middlesex,Area 927 (Middlesex),65000,15000,1800,0.12,38.0,8,2.67,129.6,10.4,census_comprehensive
+08928,Area 928,Middlesex,Area 928 (Middlesex),65000,15000,1800,0.12,38.0,9,3.0,129.6,10.4,census_comprehensive
+08930,Area 930,Middlesex,Area 930 (Middlesex),65000,15000,1800,0.12,38.0,2,0.67,129.6,10.4,census_comprehensive
+08931,Area 931,Middlesex,Area 931 (Middlesex),65000,15000,1800,0.12,38.0,2,0.67,129.6,10.4,census_comprehensive
+08932,Area 932,Middlesex,Area 932 (Middlesex),65000,15000,1800,0.12,38.0,8,2.67,129.6,10.4,census_comprehensive
+08933,New Brunswick,Middlesex,New Brunswick (Middlesex),65000,15000,1800,0.12,38.0,2,0.67,129.6,10.4,census_comprehensive
+08934,Area 934,Middlesex,Area 934 (Middlesex),65000,15000,1800,0.12,38.0,7,2.33,129.6,10.4,census_comprehensive
+08935,Area 935,Middlesex,Area 935 (Middlesex),65000,15000,1800,0.12,38.0,5,1.67,129.6,10.4,census_comprehensive
+08936,Area 936,Middlesex,Area 936 (Middlesex),65000,15000,1800,0.12,38.0,3,1.0,129.6,10.4,census_comprehensive
+08937,Area 937,Middlesex,Area 937 (Middlesex),65000,15000,1800,0.12,38.0,10,3.33,129.6,10.4,census_comprehensive
+08939,Area 939,Middlesex,Area 939 (Middlesex),65000,15000,1800,0.12,38.0,9,3.0,129.6,10.4,census_comprehensive
+08940,Area 940,Middlesex,Area 940 (Middlesex),65000,15000,1800,0.12,38.0,9,3.0,129.6,10.4,census_comprehensive
+08941,Area 941,Middlesex,Area 941 (Middlesex),65000,15000,1800,0.12,38.0,10,3.33,129.6,10.4,census_comprehensive
+08942,Area 942,Middlesex,Area 942 (Middlesex),65000,15000,1800,0.12,38.0,12,4.0,129.6,10.4,census_comprehensive
+08943,Area 943,Middlesex,Area 943 (Middlesex),65000,15000,1800,0.12,38.0,3,1.0,129.6,10.4,census_comprehensive
+08944,Area 944,Middlesex,Area 944 (Middlesex),65000,15000,1800,0.12,38.0,10,3.33,129.6,10.4,census_comprehensive
+08945,Area 945,Middlesex,Area 945 (Middlesex),65000,15000,1800,0.12,38.0,6,2.0,129.6,10.4,census_comprehensive
+08946,Area 946,Middlesex,Area 946 (Middlesex),65000,15000,1800,0.12,38.0,8,2.67,129.6,10.4,census_comprehensive
+08947,Area 947,Middlesex,Area 947 (Middlesex),65000,15000,1800,0.12,38.0,4,1.33,129.6,10.4,census_comprehensive
